@@ -1,0 +1,2966 @@
+    1  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    2  echo >> /Users/uncool/.zprofile\n    echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/uncool/.zprofile\n    eval "$(/opt/homebrew/bin/brew shellenv)"
+    3  brew install iterm2
+    4  clear
+    5  brew install --cask postgres-unofficial
+    6  brew install poetry pyenv gh
+    7  brew install jetbrains-toolbox
+    8  echo 'export PYENV_ROOT="$HOME/.pyenv"' >> ~/.zshrc\necho '[[ -d $PYENV_ROOT/bin ]] && export PATH="$PYENV_ROOT/bin:$PATH"' >> ~/.zshrc\necho 'eval "$(pyenv init -)"' >> ~/.zshrc
+    9  exec($SHELL)
+   10  echo 'export PYENV_ROOT="$HOME/.pyenv"' >> ~/.zshrc\necho '[[ -d $PYENV_ROOT/bin ]] && export PATH="$PYENV_ROOT/bin:$PATH"' >> ~/.zshrc\necho 'eval "$(pyenv init -)"' >> ~/.zshrc
+   11  clear
+   12  vim .zshrc
+   13  exec "$SHELL\n"
+   14  pyenv install -l
+   15  pyenv install 3.13.0
+   16  brew install visual-studio-code
+   17  poetry install
+   18  flask run
+   19  poetry where
+   20  poetry -
+   21  poetry install
+   22  pip wheel --no-cache-dir --use-pep517 "psycopg2 (==2.9.10)"
+   23  poetry install
+   24  poetry install
+   25  brew install 1password
+   26  /Users/uncool/.pyenv/versions/3.13.0/bin/python /Users/uncool/.vscode/extensions/ms-python.python-2024.20.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/uncool/.vscode/extensions/ms-python.python-2024.20.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+   27  /Users/uncool/.pyenv/versions/3.13.0/bin/python /Users/uncool/.vscode/extensions/ms-python.python-2024.20.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/uncool/.vscode/extensions/ms-python.python-2024.20.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+   28  poetry init 
+   29  poetry add flask flask_sqlalchemy flask_wtf flask_login wtforms
+   30  /Users/uncool/.pyenv/versions/3.13.0/bin/python /Users/uncool/.vscode/extensions/ms-python.python-2024.20.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/uncool/.vscode/extensions/ms-python.python-2024.20.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+   31  flask run
+   32  clear
+   33  flask run
+   34  flask run
+   35  flask run
+   36  flask run
+   37  flask run
+   38  poetry add psycopg2
+   39  pip install psycopg2
+   40  poetry add psycopg2-binary
+   41  flask run
+   42  flask run
+   43  flask run
+   44  flask run
+   45  flask run
+   46  flask run
+   47  flask run
+   48  flask run
+   49  flask run
+   50  flask run
+   51  flask run
+   52  flask run
+   53  flask run
+   54  flask run
+   55  flask run
+   56  flask run
+   57  flask run
+   58  flask run
+   59  flask run
+   60  flask run
+   61  flask run
+   62  flask run
+   63  flask run
+   64  flask run
+   65  flask run
+   66  flask run
+   67  flask run
+   68  flask run
+   69  flask run
+   70  flask run
+   71  flask run
+   72  flask run
+   73  flask run
+   74  flask run
+   75  flask run
+   76  flask run
+   77  flask run
+   78  flask run
+   79  flask run
+   80  flask run
+   81  flask run
+   82  flask run
+   83  flask run
+   84  flask run
+   85  flask run
+   86  flask run
+   87  flask run
+   88  flask run
+   89  flask run
+   90  flask run
+   91  flask run
+   92  flask run
+   93  flask run
+   94  flask run
+   95  flask run
+   96  flask run
+   97  flask run
+   98  flask run
+   99  /Users/uncool/.pyenv/versions/3.13.0/bin/python /Users/uncool/.vscode/extensions/ms-python.python-2024.20.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/uncool/.vscode/extensions/ms-python.python-2024.20.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  100  python test.py
+  101  python test.py
+  102  python test.py
+  103  python test.py
+  104  python test.py
+  105  python test.py
+  106  python test.py
+  107  python test.py
+  108  python test.py
+  109  python test.py
+  110  flask run
+  111  poetry add psycopg2
+  112  poetry add psycopg2-binary
+  113  flask run
+  114  poetry add email_validator
+  115  flask run
+  116  poetry install
+  117  flask run
+  118  poetry install
+  119  poetry install
+  120  flask run
+  121  poetry add sqlalchemy@<2.0\n
+  122  poetry add sqlalchemy@<2.0\n
+  123  poetry install
+  124  poetry run flask run
+  125  brew install sqlc
+  126  clear
+  127  sqlc generate
+  128  sqlc generate
+  129  sqlc generate
+  130  sqlc generate
+  131  sqlc generate
+  132  sqlc generate
+  133  sqlc generate
+  134  sqlc generate
+  135  /Users/uncool/.pyenv/versions/3.13.0/bin/python /Users/uncool/.vscode/extensions/ms-python.python-2024.20.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/uncool/.vscode/extensions/ms-python.python-2024.20.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  136  flask run
+  137  /Users/uncool/.pyenv/versions/3.13.0/bin/python /Users/uncool/.vscode/extensions/ms-python.python-2024.20.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/uncool/.vscode/extensions/ms-python.python-2024.20.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  138  brew install firefox
+  139  brew uninstall firefox
+  140  brew install chromium
+  141  brew install chrome
+  142  brew install thorium
+  143  brew install arc
+  144  brew install windscribe
+  145    open /opt/homebrew/Caskroom/windscribe/2.11.11/WindscribeInstaller.app
+  146  brew install cleanmymac cleantshot
+  147  brew install cleanmymac cleanshot session
+  148    softwareupdate --install-rosetta --agree-to-license'\n'
+  149    softwareupdate --install-rosetta --agree-to-license
+  150   brew uninstall session
+  151  brew install soundscource
+  152  brew install soundsource logic
+  153  brew install soundsource busycal soulver alfred rectangle-pro
+  154  brew install superhuman
+  155  brew uninstall cleanmymac
+  156  clear
+  157  /Users/uncool/.pyenv/versions/3.13.0/bin/python /Users/uncool/.vscode/extensions/ms-python.python-2024.20.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/uncool/.vscode/extensions/ms-python.python-2024.20.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  158  /Users/uncool/.pyenv/versions/3.13.0/bin/python /Users/uncool/.vscode/extensions/ms-python.python-2024.20.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/uncool/.vscode/extensions/ms-python.python-2024.20.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  159  brew install chromium
+  160  brew uninstall chromium
+  161  brew install brew install chromium --no-quarantine
+  162  brew install chromium --no-quarantine
+  163  brew uninstall chromium
+  164  npm create astro@latest\n
+  165  brew install npm bun 
+  166  brew tap oven-sh/bun
+  167  brew install npm bun 
+  168  npm create astro@latest\n
+  169  npx astro add react\n
+  170  npx astro add tailwind\n
+  171  npx shadcn@latest init\n
+  172  npx shadcn@latest add button\n
+  173  npm run dev
+  174  npm run dev
+  175  clear
+  176  npx shadcn@latest add "https://magicui.design/r/typing-animation"\n
+  177  npx shadcn@latest add "https://magicui.design/r/shiny-button"\n
+  178  npx shadcn@latest add "https://magicui.design/r/flickering-grid"\n
+  179  npx shadcn@latest add dropdown-menu\n
+  180  npx shadcn@latest add navigation-menu\n
+  181  npx shadcn@latest init\n
+  182  npx shadcn@latest add navigation-menu\n
+  183  clear
+  184  npm rund ev
+  185  npm run dev
+  186  npx shadcn@latest init\n
+  187  npx shadcn@latest add "https://magicui.design/r/grid-pattern"\n
+  188  npm run dev
+  189  npm run dev
+  190  npm run dev
+  191  brew install typora
+  192  brew install go
+  193  nvim .zshrc
+  194  vim .zshrc
+  195  vim .zshrc
+  196  clear
+  197  echo "$GOPATH"
+  198  templ
+  199  go/templ
+  200  $GOPATH/templ
+  201  cd go
+  202  ls
+  203  cd bin
+  204  ls
+  205  templ
+  206  cd templ
+  207  ./templ
+  208  templ
+  209  clear
+  210  go mod init
+  211  go mod init 'os/main'
+  212  go mod init 'os'
+  213  go mod init 'os'
+  214  go run
+  215  go run main.go
+  216  go mod init os
+  217  go install os
+  218  go install .
+  219  go install .
+  220  go install projectos
+  221  clear
+  222  go mod init projos
+  223  go install projos
+  224  go build
+  225  ./projos
+  226  go install github.com/a-h/templ/cmd/templ@latest\n\n
+  227  go get github.com/a-h/templ\n\n
+  228  templ genarate
+  229  go build
+  230  go install .
+  231  go install .
+  232  go run
+  233  go run main
+  234  go run main.go
+  235  clear
+  236  go install .
+  237  go install .
+  238  go run
+  239  go run .
+  240  go run main.go
+  241  templ
+  242  brew install templ
+  243  GOPATH
+  244  $GOPATH
+  245  ls
+  246  echo "$GOPATH"
+  247  export GOPATH=$HOME/go\n
+  248  source ~/.zshrc\n
+  249  lsd
+  250  clear
+  251  templ
+  252  go env -w GOPATH=$HOME/go\n
+  253  templ
+  254  templ
+  255  echo "$GOPATH"
+  256  templ
+  257  ./zshrc
+  258  vim ./zshrc
+  259  vim .zshrc
+  260  source .zshrc
+  261  templ
+  262  cd go
+  263  lsd
+  264  ls
+  265  bin
+  266  ls
+  267  cd bin
+  268  ls
+  269  ./bin
+  270  vim .zshrc
+  271  cd ~  && vim .zshrc
+  272  source .zshrc
+  273  templ
+  274  clear
+  275  brew install graphviz
+  276  graphviz
+  277  gh repo clone malevolentstrix/Virtual_To_Physical_Memory_Translator
+  278  git clone git@github.com:malevolentstrix/Virtual_To_Physical_Memory_Translator.git
+  279  gh auth
+  280  gh auth token
+  281  gh auth login
+  282  gh repo clone malevolentstrix/Virtual_To_Physical_Memory_Translator
+  283  code Virtual_To_Physical_Memory_Translator
+  284  temp
+  285  templ
+  286  templ genarate
+  287  templ generate
+  288  templ generate
+  289  go run
+  290  go run .
+  291  go run .
+  292  go install .
+  293  go run .
+  294  go run .
+  295  go run .
+  296  go run .
+  297  go run .
+  298  go run .
+  299  go install .
+  300  go run .
+  301  go run .
+  302  templ genarate
+  303  templ generate
+  304  go run .
+  305  go run main.go\n
+  306  go run main.go\n
+  307  templ genarate
+  308  templ generate
+  309  go run main.go\n
+  310  go install .
+  311          go mod download github.com/a-h/templ
+  312  go install .
+  313  go mod init ospoj
+  314  templ generate
+  315  go install .
+  316          go get github.com/a-h/templ/runtime
+  317  go install .
+  318  go run main.go\n
+  319  go run .
+  320  go run .
+  321  go run .
+  322  go run .
+  323  go run .
+  324  go run .
+  325  go run .
+  326  go run .
+  327  go mod init osproj
+  328  go install .
+  329          go get github.com/BruceNocentini13/go-mermaid/flowchart
+  330  go install .
+  331  go run .
+  332  go install .
+  333  go run .
+  334  go run .
+  335  go run .
+  336  go run .
+  337  go run .
+  338  go run .
+  339  go run . < addr.txt
+  340  ./Translator/translator
+  341  gcc ./Translator/translator.c
+  342  ./a.oy
+  343  ./a.out
+  344  ./a.out < Translator/address.txt
+  345  ./a.out 1000
+  346  ./a.out ./Translator/address.txt
+  347  npx shadcn@latest init\n
+  348  ls
+  349  go run .
+  350  go run .
+  351  go run .
+  352  go run .
+  353  curl -X POST -d '{"page_number": 1}' -H "Content-Type: application/json" http://localhost:8080/allocate\ncurl http://localhost:8080/page-table\n
+  354  curl -X POST -d '{"page_number": 1}' -H "Content-Type: application/json" http://localhost:8080/allocate\ncurl http://localhost:8080/page-table\n
+  355  curl -X POST -d '{"page_number": 2}' -H "Content-Type: application/json" http://localhost:8080/allocate\ncurl http://localhost:8080/page-table\n
+  356  curl -X POST -d '{"page_number": 2}' -H "Content-Type: application/json" http://localhost:8080/allocate\ncurl http://localhost:8080/page-table\n
+  357  go mod tidy
+  358  go run .
+  359  go run .
+  360  go run .
+  361  go run .
+  362  go run .
+  363  go run .
+  364  go run .
+  365  go run .
+  366  go run .
+  367  go run .
+  368  go run .
+  369  go run .
+  370  go mod init memory-simulation\ngo get github.com/gin-gonic/gin
+  371  go run .
+  372  git init
+  373  git add *
+  374  git commit -m "Init"
+  375  go run .
+  376  git add *
+  377  git commit -m "added table"
+  378  templ
+  379  clear
+  380  mkcd
+  381  mkcd erp
+  382  lsd
+  383  npx shadcn@latest init\n
+  384  lsd -a
+  385  cd
+  386  rm -rf erp
+  387  npx shadcn@latest init -d\n
+  388  cd erp
+  389  lsd
+  390  brew install victor-mono-nerd-font
+  391  brew install font-victor-mono-nerd-font
+  392  clear
+  393  lsd
+  394  curl -X POST http://localhost:8080/memory/init \\n     -H "Content-Type: application/json" \\n     -d '{"page_size":4096, "num_pages":16, "replacement_algorithm":"LRU"}'\n
+  395  curl -X POST http://localhost:8080/memory/load \\n     -H "Content-Type: application/json" \\n     -d '{"memory_id":"abc123-uuid", "virtual_address":2048}'\n
+  396  curl -X POST http://localhost:8080/memory/load \\n     -H "Content-Type: application/json" \\n     -d '{"memory_id":"72486a4d-1a0f-4ee8-aa79-f7f1ebba97e9", "virtual_address":2048}'\n
+  397  clear
+  398  s
+  399  cls
+  400  clear
+  401  clear
+  402  brew install lsd broot
+  403  lsd
+  404  rm -rf portfolio Virtual_To_Physical_Memory_Translator/ erp
+  405  lsd
+  406  mkcd
+  407  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"\n\n
+  408  lsd
+  409  cd erp
+  410  lsd
+  411  nvim
+  412  brew install nvim
+  413  npx shadcn@latest add "https://magicui.design/r/dot-pattern"\n
+  414  npm run dev
+  415  npx shadcn@latest add "https://magicui.design/r/pulsating-button"\n
+  416  git config --global user.name "Uncool"
+  417  git config --global user.email "106897936+Uncool-dudes@users.noreply.github.com"
+  418  npm install @clerk/nextjs
+  419  npm run dev
+  420  npm install @clerk/themes
+  421  npm run dev
+  422  npm install @clerk/elements
+  423  clear
+  424  rm -rf .git
+  425  cd
+  426  rm -rf portfolio
+  427  lsd
+  428  git clone https://github.com/clerk/clerk-nextjs-app-quickstart ./portfolio
+  429  cd portfolio
+  430  lsd
+  431  code .
+  432  npm install
+  433  npm run dev
+  434  cd 
+  435  rm -rf portfolio
+  436  clear
+  437  npx create-next-app@latest 
+  438  code .
+  439  npm install @clerk/nextjs
+  440  npm run dev
+  441  npx shadcn@latest init -d\n
+  442  npm run dev
+  443  npm i @supabase/supabase-js
+  444  npm run dev
+  445  brew install adobe-acrobat
+  446  npm i drizzle-orm pg\nnpm i -D drizzle-kit @types/pg
+  447  mkcd drizzle
+  448  pnpm create next-app
+  449  brew install pnpm
+  450  pnpm create next-app
+  451  lsd
+  452  cd
+  453  rm -rf drizzle
+  454  mkcd drizzle
+  455  pnpm create next-app
+  456  pnpm add drizzle-orm postgres\npnpm add -D drizzle-kit
+  457  code .
+  458  printenv > "/var/folders/t4/2jyjn5hd7b3d4g17wsc47g2r0000gn/T/tmp-69764NHO2MVD40UR6.txt"
+  459  /Users/uncool/.pyenv/versions/3.13.0/bin/python /Users/uncool/.vscode/extensions/ms-python.python-2024.20.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/uncool/.vscode/extensions/ms-python.python-2024.20.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  460  pnpm add drizzle-orm postgres dotenv\npnpm add -D drizzle-kit tsx
+  461  pnpm install
+  462  pnpm add -D drizzle-kit tsx
+  463  pnpm install
+  464  pnpm run dev
+  465  cd
+  466  rm -rf drizzle
+  467  mkcd data-portfolio
+  468  npm create next-app
+  469  code .
+  470  cd
+  471  rm -rf data-portfolio
+  472  mkcd erp-final
+  473  npm create next-app
+  474  code .
+  475  npx shadcn@latest init -d\n
+  476  npm install @heroicons/react
+  477  npm install @heroicons/react --force
+  478  clear
+  479  npm run dev
+  480  npm install @supabase/supabase-js
+  481  rm -rf .gi
+  482  rm -rf .git
+  483  cd
+  484  brew install viso
+  485  go run .
+  486  curl -X POST http://localhost:8080/api/init -H "Content-Type: application/json" -d '{"num_frames":3,"algorithm":"FIFO","page_sequence":[1,2,3],"virtual_addresses":[256,512,768]}'\n
+  487  go run .
+  488  curl -X POST http://localhost:8080/api/init -H "Content-Type: application/json" -d '{"num_frames":3,"algorithm":"FIFO","page_sequence":[1,2,3],"virtual_addresses":[256,512,768]}'\n
+  489  go run .
+  490  curl -X POST http://localhost:8080/api/init -H "Content-Type: application/json" -d '{"num_frames":3,"algorithm":"FIFO","page_sequence":[1,2,3],"virtual_addresses":[256,512,768]}'\n
+  491  go run .
+  492  curl -X POST http://localhost:8080/api/init -H "Content-Type: application/json" -d '{"num_frames":3,"algorithm":"FIFO","page_sequence":[1,2,3],"virtual_addresses":[256,512,768]}'\n
+  493  go run .
+  494  curl -X POST http://localhost:8080/api/init -H "Content-Type: application/json" -d '{"num_frames":3,"algorithm":"FIFO","page_sequence":[1,2,3],"virtual_addresses":[256,512,768]}'\n
+  495  clera
+  496  clear
+  497  go mod init  memory-simulation
+  498  go get -u github.com/gin-gonic/gin\n
+  499  go mod tidy
+  500  go run .
+  501  curl http://localhost:8080/api/algorithms
+  502  go run .
+  503  cd
+  504  cd OS
+  505  go run .
+  506  clear
+  507  bun
+  508  yarn create-next-app@latest
+  509  brew install yarn
+  510  yarn
+  511  yarn create-next-app@latest
+  512  yarn dlx create-next-app@latest
+  513  yarn
+  514  yarn dlx create-next-app@latest
+  515  npx shadcn@latest init\n
+  516  yarn run
+  517  bun run dev
+  518  npx shadcn@latest add "https://magicui.design/r/bento-grid"\n
+  519  yarn install @radix-ui/react-icons
+  520  yarn add @radix-ui/react-icons
+  521  npm i @radix-ui/react-icons
+  522  yarn run dev
+  523  npx shadcn@latest add button
+  524  yarn run dev
+  525  npx shadcn@latest add sidebar\n
+  526  npx shadcn@latest init\n
+  527  npx shadcn@latest add navigation-menu\n
+  528  yarn run dev
+  529  npm install @clerk/nextjs
+  530  npm i @radix-ui/react-icons
+  531  npm install @heroicons/react
+  532  curl google.com
+  533  brew install --cask ia-presenter
+  534  go run .
+  535  printenv > "/var/folders/t4/2jyjn5hd7b3d4g17wsc47g2r0000gn/T/tmp-34377UhrYJbNPNVB0.txt"
+  536  /Users/uncool/.pyenv/versions/3.13.0/bin/python /Users/uncool/.vscode/extensions/ms-python.python-2024.20.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/uncool/.vscode/extensions/ms-python.python-2024.20.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  537  npx shadcn@latest init -d\n
+  538  npm rund ev
+  539  npm run dev
+  540  npx shadcn@latest add "https://magicui.design/r/box-reveal"\n
+  541  npx shadcn@latest add "https://magicui.design/r/shimmer-button"\n
+  542  npm install @clerk/nextjs
+  543  npx shadcn@latest add tabs\n
+  544  npm install @clerk/themes
+  545  npm i framer-motion clsx tailwind-merge\n
+  546  npx shadcn@latest add navigation-menu\n
+  547  npm run dev
+  548  npm install @heroicons/react
+  549  npm install @headlessui/react
+  550  npx shadcn@latest add "https://magicui.design/r/bento-grid"\n
+  551  Button
+  552  npx shadcn@latest add button\n
+  553  npm install @supabase/supabase-js\n
+  554  npm run dev
+  555  npx shadcn@latest add "https://magicui.design/r/number-ticker"\n
+  556  npm run dev
+  557  vim
+  558  git commit -m "Lotta work"
+  559  git add * && git commit -m "Lotta work"
+  560  npm run dev
+  561  npx shadcn@latest add radio-group\n
+  562  import { Input } from "@/components/ui/input"\n
+  563  npx shadcn@latest add input\n
+  564  npx shadcn@latest add form\n
+  565  npx shadcn@latest add select\n
+  566  npx shadcn@latest add label\n
+  567  cd erp
+  568  npm run dev
+  569  brew install mochi
+  570  tmux
+  571  brew install tmux
+  572  clear
+  573  tmux
+  574  htop
+  575  btop
+  576  top
+  577  nvim
+  578  tmux
+  579  :q
+  580  tmux ls
+  581  tmux ttach 0
+  582  tmux attach 0
+  583  tmux attach 
+  584  tmux ls
+  585  npx shadcn@latest init\n
+  586  npm run dev
+  587  brew install figma
+  588  no
+  589  mo
+  590  clear
+  591  tmux attach
+  592  tmux 
+  593  :q
+  594  cd $HOME/Downloads\ncurl -O https://raw.githubusercontent.com/nyoom-engineering/oxocarbon-iterm2/main/oxocarbon-dark.itermcolors
+  595  cd
+  596  clear
+  597  git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
+  598  nvim
+  599  rm -rf ~/.config/nvim && nvim
+  600  git clone https://github.com/LazyVim/starter ~/.config/nvim
+  601  rm -rf ~/.config/nvim/.git && nvim
+  602  nvim
+  603  cd erp
+  604  nvim
+  605  brew install ripgrep
+  606  nvim
+  607  cd
+  608  cd erp
+  609  nvim
+  610  cd
+  611  rm -rf .config/nvim
+  612  mkcd .config/nvim
+  613  lsd
+  614  nvim
+  615  cd
+  616  git clone https://github.com/nvim-lua/kickstart.nvim.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
+  617  nvim
+  618  nvim .config/nvim
+  619  brew --cask ls
+  620  brew ls --cask 
+  621  brew ls --cask > bat
+  622  brew ls --cask | bat
+  623  brew install bat
+  624  clear
+  625  brew ls --cask | bat
+  626  brew uninstall figma
+  627  clear
+  628  nvim
+  629  rm -rf .config/nvim
+  630  brew ls --cask | bat
+  631  git clone https://github.com/LazyVim/starter ~/.config/nvim
+  632  rm -rf ~/.config/nvim/.git && nvim
+  633  nvim
+  634  brew instakk KeyboardCleanTool
+  635  brew install KeyboardCleanTool
+  636  brew install ia-writer
+  637  hazel
+  638  brew install hazel
+  639  brew install bike
+  640  this
+  641  brew install todoist
+  642  latex
+  643  pdftex
+  644  pdflatex
+  645  clear
+  646  nvim
+  647  mkcd projects
+  648  mkcd chess
+  649  touch README.md
+  650  nvim .
+  651  curl -v https://api.chess.com/pub/player/hikaru
+  652  curl -v https://api.chess.com/pub/player/ananthpullur
+  653  clear
+  654  hhtpie
+  655  brew install httpie
+  656  http
+  657  http -v https://api.chess.com/pub/player/hikaru
+  658  http -v https://api.chess.com/pub/player/ananthpullur
+  659  http -v https://api.chess.com/pub/player/ananthpullur/is-online
+  660  http -v https://api.chess.com/pub/player/ananthpullur/games
+  661  http -v https://api.chess.com/pub/player/ananthpullur/games/to-move
+  662  http -v https://api.chess.com/pub/player/ananthpullur/games/archives
+  663  http -v https://api.chess.com/pub/player/ananthpullur/games/2024/08
+  664  tmux 
+  665  cd projects/chess
+  666  nvim
+  667  http -v https://api.chess.com/pub/player/ananthpullur/games/2024/08
+  668  echo ""[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2024.08.18\"]\n[Round \"-\"]\n[White \"ananthpullur\"]\n[Black \"YAMAN-1\"]\n[Result \"1/2-1/2\"]\n[CurrentPosition \"3K4/2PQ4/5qpk/8/8/8/8/8 w - -\"]\n[Timezone \"UTC\"]\n[ECO \"C00\"]\n[ECOUrl \"https://www.chess.com/openings/French-Defense-Knight-Variation\"]\n[UTCDate \"2024.08.18\"]\n[UTCTime \"07:06:36\"]\n[WhiteElo \"1157\"]\n[BlackElo \"1134\"]\n[TimeControl \"600\"]\n[Termination \"Game drawn by repetition\"]\n[StartTime \"07:06:36\"]\n[EndDate \"2024.08.18\"]\n[EndTime \"07:18:22\"]\n[Link \"https://www.chess.com/game/live/117703758911\"]\n\n1. e4 {[%clk 0:09:56.9]} 1... e6 {[%clk 0:09:59.9]} 2. Nf3 {[%clk 0:09:54.9]} 2... h6 {[%clk 0:09:58.1]} 3. Nc3 {[%clk 0:09:52.4]} 3... d6 {[%clk 0:09:57]} 4. d4 {[%clk 0:09:50.3]} 4... a6 {[%clk 0:09:56.5]} 5. Bd3 {[%clk 0:09:47.8]} 5... b6 {[%clk 0:09:54.4]} 6. d5 {[%clk 0:09:44.6]} 6... e5 {[%clk 0:09:52.6]} 7. O-O {[%clk 0:09:34.6]} 7... Bb7 {[%clk 0:09:51.7]} 8. Re1 {[%clk 0:09:19.9]} 8... Nd7 {[%clk 0:09:49.1]} 9. Be3 {[%clk 0:09:11.9]} 9... Ngf6 {[%clk 0:09:47.4]} 10. a4 {[%clk 0:09:02.2]} 10... Nb8 {[%clk 0:09:28.1]} 11. b4 {[%clk 0:08:50.7]} 11... b5 {[%clk 0:09:22.2]} 12. axb5 {[%clk 0:08:47.9]} 12... axb5 {[%clk 0:09:19.7]} 13. Bxb5+ {[%clk 0:08:43.8]} 13... c6 {[%clk 0:09:19]} 14. Rxa8 {[%clk 0:08:23.1]} 14... Bxa8 {[%clk 0:09:15.9]} 15. Bxc6+ {[%clk 0:08:20.8]} 15... Nxc6 {[%clk 0:09:14.8]} 16. dxc6 {[%clk 0:08:19.8]} 16... Bxc6 {[%clk 0:09:14]} 17. b5 {[%clk 0:08:16.6]} 17... Qa5 {[%clk 0:09:03.3]} 18. bxc6 {[%clk 0:08:01.1]} 18... Qxc3 {[%clk 0:08:59.3]} 19. Qd3 {[%clk 0:07:04.2]} 19... Qxc6 {[%clk 0:08:56.7]} 20. Rc1 {[%clk 0:06:59]} 20... Nxe4 {[%clk 0:08:52]} 21. Nd2 {[%clk 0:06:28.5]} 21... Nxd2 {[%clk 0:08:45.3]} 22. Qxd2 {[%clk 0:06:28.4]} 22... Be7 {[%clk 0:08:39.1]} 23. Ra1 {[%clk 0:06:07.1]} 23... O-O {[%clk 0:08:35.8]} 24. Ra7 {[%clk 0:05:48.8]} 24... Bg5 {[%clk 0:08:26.8]} 25. Bxg5 {[%clk 0:05:41]} 25... hxg5 {[%clk 0:08:25.2]} 26. Qxg5 {[%clk 0:05:36.1]} 26... Ra8 {[%clk 0:08:18.6]} 27. Rxa8+ {[%clk 0:05:12]} 27... Qxa8 {[%clk 0:08:16.9]} 28. h3 {[%clk 0:05:11.9]} 28... Qa1+ {[%clk 0:08:01.6]} 29. Kh2 {[%clk 0:05:09.6]} 29... d5 {[%clk 0:07:59.3]} 30. Qd8+ {[%clk 0:05:03.9]} 30... Kh7 {[%clk 0:07:57.7]} 31. Qxd5 {[%clk 0:04:59.8]} 31... Qe1 {[%clk 0:07:56.4]} 32. Qxf7 {[%clk 0:04:48.8]} 32... e4 {[%clk 0:07:50.8]} 33. c4 {[%clk 0:04:32.2]} 33... Qf1 {[%clk 0:07:45.8]} 34. Qf5+ {[%clk 0:04:28.6]} 34... g6 {[%clk 0:07:37.4]} 35. Qxe4 {[%clk 0:04:22.1]} 35... Qxf2 {[%clk 0:07:35.8]} 36. Qe7+ {[%clk 0:04:09.8]} 36... Kh6 {[%clk 0:07:34.4]} 37. c5 {[%clk 0:04:04.9]} 37... Qf4+ {[%clk 0:07:30.6]} 38. Kh1 {[%clk 0:04:00.3]} 38... Qf1+ {[%clk 0:07:28]} 39. Kh2 {[%clk 0:03:58.6]} 39... Qf4+ {[%clk 0:07:26.8]} 40. Kg1 {[%clk 0:03:50.1]} 40... Qc1+ {[%clk 0:07:24.3]} 41. Kf2 {[%clk 0:03:48.3]} 41... Qd2+ {[%clk 0:07:15.2]} 42. Kf3 {[%clk 0:03:46.1]} 42... Qc3+ {[%clk 0:07:11.9]} 43. Kg4 {[%clk 0:03:40.3]} 43... Qd4+ {[%clk 0:07:09]} 44. Kg3 {[%clk 0:03:35.3]} 44... Qc3+ {[%clk 0:07:05.6]} 45. Kf4 {[%clk 0:03:33.1]} 45... Qc4+ {[%clk 0:06:56.6]} 46. Ke5 {[%clk 0:03:23.7]} 46... Qe2+ {[%clk 0:06:54.5]} 47. Kd6 {[%clk 0:03:21.4]} 47... Qxg2 {[%clk 0:06:52.5]} 48. c6 {[%clk 0:03:13]} 48... Qxh3 {[%clk 0:06:47.7]} 49. c7 {[%clk 0:03:10]} 49... Qg3+ {[%clk 0:06:45.7]} 50. Kd7 {[%clk 0:03:08.2]} 50... Qd3+ {[%clk 0:06:38.9]} 51. Ke8 {[%clk 0:03:05.5]} 51... Qb5+ {[%clk 0:06:37.1]} 52. Qd7 {[%clk 0:03:03.1]} 52... Qe5+ {[%clk 0:06:35.6]} 53. Kd8 {[%clk 0:02:58.4]} 53... Qf6+ {[%clk 0:06:32.7]} 54. Qe7 {[%clk 0:02:56.5]} 54... Qd4+ {[%clk 0:06:31]} 55. Qd7 {[%clk 0:02:55.1]} 55... Qf6+ {[%clk 0:06:29.3]} 56. Kc8 {[%clk 0:02:53.5]} 56... Qa6+ {[%clk 0:06:27.4]} 57. Kb8 {[%clk 0:02:50.6]} 57... Qb6+ {[%clk 0:06:25.9]} 58. Ka8 {[%clk 0:02:48.5]} 58... Qa6+ {[%clk 0:06:24.6]} 59. Kb8 {[%clk 0:02:47]} 59... Qb6+ {[%clk 0:06:23.6]} 60. Kc8 {[%clk 0:02:46]} 60... Qa6+ {[%clk 0:06:22.2]} 61. Kd8 {[%clk 0:02:43.5]} 61... Qf6+ {[%clk 0:06:21.2]} 1/2-1/2\n","
+  669  echo "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2024.08.18\"]\n[Round \"-\"]\n[White \"ananthpullur\"]\n[Black \"YAMAN-1\"]\n[Result \"1/2-1/2\"]\n[CurrentPosition \"3K4/2PQ4/5qpk/8/8/8/8/8 w - -\"]\n[Timezone \"UTC\"]\n[ECO \"C00\"]\n[ECOUrl \"https://www.chess.com/openings/French-Defense-Knight-Variation\"]\n[UTCDate \"2024.08.18\"]\n[UTCTime \"07:06:36\"]\n[WhiteElo \"1157\"]\n[BlackElo \"1134\"]\n[TimeControl \"600\"]\n[Termination \"Game drawn by repetition\"]\n[StartTime \"07:06:36\"]\n[EndDate \"2024.08.18\"]\n[EndTime \"07:18:22\"]\n[Link \"https://www.chess.com/game/live/117703758911\"]\n\n1. e4 {[%clk 0:09:56.9]} 1... e6 {[%clk 0:09:59.9]} 2. Nf3 {[%clk 0:09:54.9]} 2... h6 {[%clk 0:09:58.1]} 3. Nc3 {[%clk 0:09:52.4]} 3... d6 {[%clk 0:09:57]} 4. d4 {[%clk 0:09:50.3]} 4... a6 {[%clk 0:09:56.5]} 5. Bd3 {[%clk 0:09:47.8]} 5... b6 {[%clk 0:09:54.4]} 6. d5 {[%clk 0:09:44.6]} 6... e5 {[%clk 0:09:52.6]} 7. O-O {[%clk 0:09:34.6]} 7... Bb7 {[%clk 0:09:51.7]} 8. Re1 {[%clk 0:09:19.9]} 8... Nd7 {[%clk 0:09:49.1]} 9. Be3 {[%clk 0:09:11.9]} 9... Ngf6 {[%clk 0:09:47.4]} 10. a4 {[%clk 0:09:02.2]} 10... Nb8 {[%clk 0:09:28.1]} 11. b4 {[%clk 0:08:50.7]} 11... b5 {[%clk 0:09:22.2]} 12. axb5 {[%clk 0:08:47.9]} 12... axb5 {[%clk 0:09:19.7]} 13. Bxb5+ {[%clk 0:08:43.8]} 13... c6 {[%clk 0:09:19]} 14. Rxa8 {[%clk 0:08:23.1]} 14... Bxa8 {[%clk 0:09:15.9]} 15. Bxc6+ {[%clk 0:08:20.8]} 15... Nxc6 {[%clk 0:09:14.8]} 16. dxc6 {[%clk 0:08:19.8]} 16... Bxc6 {[%clk 0:09:14]} 17. b5 {[%clk 0:08:16.6]} 17... Qa5 {[%clk 0:09:03.3]} 18. bxc6 {[%clk 0:08:01.1]} 18... Qxc3 {[%clk 0:08:59.3]} 19. Qd3 {[%clk 0:07:04.2]} 19... Qxc6 {[%clk 0:08:56.7]} 20. Rc1 {[%clk 0:06:59]} 20... Nxe4 {[%clk 0:08:52]} 21. Nd2 {[%clk 0:06:28.5]} 21... Nxd2 {[%clk 0:08:45.3]} 22. Qxd2 {[%clk 0:06:28.4]} 22... Be7 {[%clk 0:08:39.1]} 23. Ra1 {[%clk 0:06:07.1]} 23... O-O {[%clk 0:08:35.8]} 24. Ra7 {[%clk 0:05:48.8]} 24... Bg5 {[%clk 0:08:26.8]} 25. Bxg5 {[%clk 0:05:41]} 25... hxg5 {[%clk 0:08:25.2]} 26. Qxg5 {[%clk 0:05:36.1]} 26... Ra8 {[%clk 0:08:18.6]} 27. Rxa8+ {[%clk 0:05:12]} 27... Qxa8 {[%clk 0:08:16.9]} 28. h3 {[%clk 0:05:11.9]} 28... Qa1+ {[%clk 0:08:01.6]} 29. Kh2 {[%clk 0:05:09.6]} 29... d5 {[%clk 0:07:59.3]} 30. Qd8+ {[%clk 0:05:03.9]} 30... Kh7 {[%clk 0:07:57.7]} 31. Qxd5 {[%clk 0:04:59.8]} 31... Qe1 {[%clk 0:07:56.4]} 32. Qxf7 {[%clk 0:04:48.8]} 32... e4 {[%clk 0:07:50.8]} 33. c4 {[%clk 0:04:32.2]} 33... Qf1 {[%clk 0:07:45.8]} 34. Qf5+ {[%clk 0:04:28.6]} 34... g6 {[%clk 0:07:37.4]} 35. Qxe4 {[%clk 0:04:22.1]} 35... Qxf2 {[%clk 0:07:35.8]} 36. Qe7+ {[%clk 0:04:09.8]} 36... Kh6 {[%clk 0:07:34.4]} 37. c5 {[%clk 0:04:04.9]} 37... Qf4+ {[%clk 0:07:30.6]} 38. Kh1 {[%clk 0:04:00.3]} 38... Qf1+ {[%clk 0:07:28]} 39. Kh2 {[%clk 0:03:58.6]} 39... Qf4+ {[%clk 0:07:26.8]} 40. Kg1 {[%clk 0:03:50.1]} 40... Qc1+ {[%clk 0:07:24.3]} 41. Kf2 {[%clk 0:03:48.3]} 41... Qd2+ {[%clk 0:07:15.2]} 42. Kf3 {[%clk 0:03:46.1]} 42... Qc3+ {[%clk 0:07:11.9]} 43. Kg4 {[%clk 0:03:40.3]} 43... Qd4+ {[%clk 0:07:09]} 44. Kg3 {[%clk 0:03:35.3]} 44... Qc3+ {[%clk 0:07:05.6]} 45. Kf4 {[%clk 0:03:33.1]} 45... Qc4+ {[%clk 0:06:56.6]} 46. Ke5 {[%clk 0:03:23.7]} 46... Qe2+ {[%clk 0:06:54.5]} 47. Kd6 {[%clk 0:03:21.4]} 47... Qxg2 {[%clk 0:06:52.5]} 48. c6 {[%clk 0:03:13]} 48... Qxh3 {[%clk 0:06:47.7]} 49. c7 {[%clk 0:03:10]} 49... Qg3+ {[%clk 0:06:45.7]} 50. Kd7 {[%clk 0:03:08.2]} 50... Qd3+ {[%clk 0:06:38.9]} 51. Ke8 {[%clk 0:03:05.5]} 51... Qb5+ {[%clk 0:06:37.1]} 52. Qd7 {[%clk 0:03:03.1]} 52... Qe5+ {[%clk 0:06:35.6]} 53. Kd8 {[%clk 0:02:58.4]} 53... Qf6+ {[%clk 0:06:32.7]} 54. Qe7 {[%clk 0:02:56.5]} 54... Qd4+ {[%clk 0:06:31]} 55. Qd7 {[%clk 0:02:55.1]} 55... Qf6+ {[%clk 0:06:29.3]} 56. Kc8 {[%clk 0:02:53.5]} 56... Qa6+ {[%clk 0:06:27.4]} 57. Kb8 {[%clk 0:02:50.6]} 57... Qb6+ {[%clk 0:06:25.9]} 58. Ka8 {[%clk 0:02:48.5]} 58... Qa6+ {[%clk 0:06:24.6]} 59. Kb8 {[%clk 0:02:47]} 59... Qb6+ {[%clk 0:06:23.6]} 60. Kc8 {[%clk 0:02:46]} 60... Qa6+ {[%clk 0:06:22.2]} 61. Kd8 {[%clk 0:02:43.5]} 61... Qf6+ {[%clk 0:06:21.2]} 1/2-1/2\n"
+  670  tmux attach
+  671  tmux
+  672  nvim 
+  673  npx shadcn@latest init\n
+  674  cd projects/chess
+  675  npx shadcn@latest init \n
+  676  rm -rf app
+  677  lsd
+  678  rm -rf checkers
+  679  npx shadcn@latest init \n
+  680  cd projects/chess
+  681  cd checkers
+  682  lsd
+  683  npm run dev
+  684  cd checkers
+  685  nvim
+  686  http -v https://api.chess.com/pub/player/ananthpullur/games/2024/08
+  687  npm run dev
+  688  http -v https://api.chess.com/pub/player/ananthpullur/games/2024/08
+  689  clear
+  690  curl -v https://api.chess.com/pub/player/ananthpullur/games/2024/08
+  691  npm run dev
+  692  nvim
+  693  brew install microsoft-powerpoint
+  694  brew install --cask font-playfair
+  695  /Users/uncool/.pyenv/versions/3.13.0/bin/python /Users/uncool/.vscode/extensions/ms-python.python-2024.20.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/uncool/.vscode/extensions/ms-python.python-2024.20.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  696  pip install plotly
+  697  /Users/uncool/.pyenv/versions/3.13.0/bin/python /Users/uncool/.vscode/extensions/ms-python.python-2024.20.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/uncool/.vscode/extensions/ms-python.python-2024.20.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  698  pip install pandas
+  699  brew install microsoft-excel
+  700  cd projects
+  701  mkcd blog
+  702  ccd
+  703  cd
+  704  rm -rf bog
+  705  rm -rf blog
+  706  cd projects/
+  707  cd blog
+  708  npm create next-app
+  709  cd ..
+  710  rm -rf blog
+  711  mkcd blog
+  712  touch index.html styles.css script.js
+  713  lsd
+  714  nvim
+  715  cd ..
+  716  mkcd blog
+  717  cd ..
+  718  rm -rf blog
+  719  mkcd blog
+  720  clear
+  721  git init 
+  722  touch somefile.txt
+  723  git commit -m "created somefile.txt"
+  724  git add *
+  725  git commit -m "created somefile.txt"
+  726  git graph
+  727  clear
+  728  git -h
+  729  clear
+  730  git branch dev
+  731  git branh -h
+  732  git branch -h
+  733  git switch dev
+  734  git swtich main
+  735  git switch
+  736  git switch dev
+  737  touch somefile1.txt
+  738  lsd
+  739  git swtich main
+  740  git switich main
+  741  git switch main
+  742  lsd
+  743  git switch dev
+  744  clear
+  745  git add *
+  746  git commit -m "Somefile1.txt in Dev"
+  747  git switch main
+  748  lsd
+  749  git merge
+  750  clear
+  751  git checkout dev
+  752  lsd
+  753  git status
+  754  git switch main
+  755  git status
+  756  git graph
+  757  clear
+  758  git log
+  759  git merge dev
+  760  lsd
+  761  git rever
+  762  git revert
+  763  git revert main
+  764  lsd
+  765  git status
+  766  git switch dev
+  767  lsd
+  768  nvim somefile
+  769  git status
+  770  git add *
+  771  git status
+  772  clear
+  773  lsd
+  774  rm -rf somefile
+  775  lsd
+  776  nvim somefile.txt
+  777  git add *
+  778  git status
+  779  git rm *
+  780  lsd
+  781  git status
+  782  clear
+  783  git status
+  784  git swtich main
+  785  git switch main
+  786  clear
+  787  git status
+  788  clear
+  789  git status
+  790  git merge 
+  791  git merge dev
+  792  lsd
+  793  git switch dev
+  794  git mearge main
+  795  git merge main
+  796  git revert
+  797  git switch main
+  798  lsd
+  799  git switch dev
+  800  lsd
+  801  git revert
+  802  git revert *
+  803  git revert --force
+  804  lsd
+  805  nvim somefile.txt
+  806  git commit -m "Added text to dev branch"
+  807  git status
+  808  touch somefile1.txt
+  809  git status
+  810  git add somefile1.txt
+  811  lsd
+  812  git status
+  813  git commit -m "Added Somefile1.txt"
+  814  git status
+  815  git switch main
+  816  git merge
+  817  git merge dev
+  818  git revert
+  819  git revert *
+  820  git revert main
+  821  lsd
+  822  rm -rf somefile
+  823  lsd
+  824  git commit -a -m "Delted some file\n"
+  825  git status
+  826  nvim somefile.txt
+  827  git commit -a -m "Modified Somefile,txt"
+  828  git switch dev
+  829  lsd
+  830  rm -rf somefile
+  831  git commit -a -m "Delted some file"\n"
+  832  git commit -a -m "Delted some file\n"
+  833  lsd
+  834  git switch
+  835  git switch main
+  836  lsd
+  837  git merge dev
+  838  lsd
+  839  git status
+  840  git switch dev
+  841  git status
+  842  lsd
+  843  nvim somefile.txt
+  844  git commit -a -m "Modiefied Sometext.txt"
+  845  git switch main
+  846  git merge dev
+  847  code .
+  848  lsd
+  849  git switch dev
+  850  lsd
+  851  git status
+  852  git merge main
+  853  lsd
+  854  git revert
+  855  git revert dev
+  856  git reset --hard 562dcb63491e3df2214a7afb9a1f6cdb0ce5b591
+  857  lsd
+  858  git reset --hard 
+  859  lsd
+  860  clear
+  861  cd ..
+  862  lsd
+  863  rm -rf blog
+  864  lsd
+  865  clear
+  866  lsd
+  867  clear
+  868  cd ..
+  869  cd blog
+  870  cd erp
+  871  lsd
+  872  cd
+  873  cd blog
+  874  cd projects
+  875  cd blog
+  876  mkcd test
+  877  git init
+  878  touch somefile.txt
+  879  nvim somefile.txt
+  880  cat somefile.txt
+  881  git commit -a -m "Added Sometext.txt"
+  882  git commit -a -m "Added sometext.txt"
+  883  git add *
+  884  clear
+  885  git commit -a -m "Added sometext.txt"
+  886  cat somefile.txt
+  887  git status
+  888  git branch dev
+  889  git switch dev
+  890  lsd
+  891  cat somefile.txt
+  892  touch somefile1.txt
+  893  nvim somefile1.txt
+  894  git commit -a -m "Added sometext1.txt"
+  895  git add *
+  896  git commit -a -m "Added sometext1.txt"
+  897  git switch main
+  898  lsd
+  899  git swtich dev
+  900  git switch dev
+  901  lsd
+  902  clear
+  903  git merge main
+  904  git switch main
+  905  git merge dev
+  906  lsd
+  907  cat somefile1.txt
+  908  cat somefile.txt
+  909  git revert
+  910  git revert main
+  911  lsd
+  912  git merge dev
+  913  lsd
+  914  git switch dev
+  915  lsd
+  916  git merge main
+  917  lsd
+  918  git reset 
+  919  lsd
+  920  git revert
+  921  git revert *
+  922  git revert dev
+  923  lsd
+  924  nvim somefile.txt
+  925  git add *
+  926  git commit -a -m "Modified sometext.txt"
+  927  lsd
+  928  cat somefile.txt
+  929  git swtich main
+  930  git switch main
+  931  cat somefile.txt
+  932  git merge dev
+  933  lsd
+  934  cat somefile.txt
+  935  git revert main
+  936  lsd
+  937  cat somefile.txt
+  938  git switch dev
+  939  git merge main
+  940  git revert dev
+  941  git switch main
+  942  gh repo
+  943  clear
+  944  gh repo
+  945  gh repopush
+  946  clear
+  947  nvim main.c
+  948  nvim
+  949  python main.py
+  950  python3 main.py
+  951  clear
+  952  git commit -a -m "Modified sometext.txt"
+  953  git add *
+  954  git commit -a -m "Added main.py"
+  955  cd ..
+  956  rm -rf test
+  957  wezterm
+  958  cbonsai
+  959  cmatrix
+  960  brew install cbonsai cmatrix
+  961  brew install font-Nabla
+  962  brew install figma
+  963  npx shadcn@latest init \n
+  964  npm run dev
+  965  npx shadcn@latest add "https://magicui.design/r/word-fade-in"\n
+  966  npm run dev
+  967  npx shadcn@latest add "https://magicui.design/r/animated-grid-pattern"\n
+  968  npm run dev
+  969  git add *
+  970  git commit -m "Initialization"
+  971  git remote add "origin" git@github.com:Uncool-dudes/Q2Demeters.git
+  972  git push -u origin main
+  973  git push
+  974  gh repo clone Uncool-dudes/Q2Demeters .
+  975  git commit -m "Init"
+  976  git add *
+  977  git reset
+  978  npm run dev
+  979  git add *
+  980  git commit -m "Init"
+  981  git push
+  982  npm run dev
+  983  git add *
+  984  git commit -m "Fixed Color"
+  985  git push
+  986  git add *
+  987  git commit -m "Fixed name"
+  988  git push
+  989  nvi
+  990  nvim
+  991  clear
+  992  jq
+  993  clear
+  994  j
+  995  z
+  996  brew install zoxide
+  997  z
+  998  zoxide
+  999  cd projects
+ 1000  mkcd university-management
+ 1001  cd ..
+ 1002  cd university-management
+ 1003  zoxide add .
+ 1004  zoxid4
+ 1005  zoxide
+ 1006  zoxide query
+ 1007  cd
+ 1008  zoxide
+ 1009  zoxide init
+ 1010  zoxide init zsh
+ 1011  eval "$(zoxide init zsh)"
+ 1012  z
+ 1013  z 1
+ 1014  z 
+ 1015  z -h
+ 1016  z uni
+ 1017  clear
+ 1018  pwd
+ 1019  clear
+ 1020  mkcd app
+ 1021  brew install zoom\n
+ 1022  cleart
+ 1023  clear
+ 1024  brew cleanup
+ 1025  brew install zoom\n
+ 1026  clea
+ 1027  clear
+ 1028  nvim
+ 1029  nvim 
+ 1030  clear
+ 1031  cd ..
+ 1032  cd chess
+ 1033  rm -rf *
+ 1034  lsd
+ 1035  gh repo clone mantinedev/next-app-template .
+ 1036  lsd
+ 1037  yarn run dev
+ 1038  npm run dev
+ 1039  clear
+ 1040  next dev
+ 1041  npm run dev
+ 1042  npm install
+ 1043  clear
+ 1044  npm run dev
+ 1045  omz update
+ 1046  clear
+ 1047  cd projects
+ 1048  cd chess
+ 1049  code .
+ 1050  npm run dev
+ 1051  rm -rf *
+ 1052  lsd
+ 1053  lsd -a
+ 1054  rm -rfa *
+ 1055  lsd -a
+ 1056  rm -rfa .*
+ 1057  rm -rf *
+ 1058  rm -rf .*
+ 1059  lsd -a
+ 1060  npx shadcn@latest init -d\n
+ 1061  npm run dev
+ 1062  nvim
+ 1063  curl google.com
+ 1064  $ echo $(echo "for (i=0;i<=1000;i++) i"| bc)
+ 1065  curl -v https://api.chess.com/pub/player/ananthpullur/games/2024/08
+ 1066  curl -v https://api.chess.com/pub/player/ananthpullur/games/2024/08 > jq
+ 1067  jq < curl -v https://api.chess.com/pub/player/ananthpullur/games/2024/08 
+ 1068  jq < curl -v https://api.chess.com/pub/player/ananthpullur/games/DDDDDD2024/08 
+ 1069  jq | https://api.chess.com/pub/player/ananthpullur/games/2024/08
+ 1070  jq | curl -v https://api.chess.com/pub/player/ananthpullur/games/2024/08
+ 1071  jq
+ 1072  jq --help
+ 1073  jq -C | curl -v https://api.chess.com/pub/player/ananthpullur/games/DDDDDD2024/08
+ 1074  bat | curl -v https://api.chess.com/pub/player/ananthpullur/games/DDDDDD2024/08
+ 1075  brew install word\n
+ 1076  brew install microsoft-word \n
+ 1077  brew install ithoughtsx\n
+ 1078  brew install zotero
+ 1079  brew install firefox
+ 1080  clear
+ 1081  opebr
+ 1082  br
+ 1083  clear
+ 1084  broot
+ 1085  br
+ 1086  br --h
+ 1087  br --help
+ 1088  clear
+ 1089  nvim
+ 1090  mkcd java
+ 1091  nvim practice-stack.java
+ 1092  jdtls
+ 1093  brew install jdtls
+ 1094  clear
+ 1095  nvim practice-stack.java
+ 1096  clear
+ 1097  jdtls
+ 1098  jdtls --help
+ 1099  jdtls 
+ 1100  jdk
+ 1101  openjdk
+ 1102  java
+ 1103  clear
+ 1104  java
+ 1105  jdb
+ 1106  clear
+ 1107  java --help
+ 1108  java
+ 1109  brew cleanup
+ 1110  java
+ 1111  java text.java
+ 1112  sudo ln -sfn /opt/homebrew/opt/openjdk/libexec/openjdk.jdk /Library/Java/JavaVirtualMachines/openjdk.jdk\n
+ 1113  java
+ 1114  clear
+ 1115  nvim
+ 1116  java run collection.java
+ 1117  java collection.java
+ 1118  clear
+ 1119  cd
+ 1120  brew install adobe-acrobat-pro
+ 1121  mom
+ 1122  kok
+ 1123  lpl
+ 1124  jij
+ 1125  huhu
+ 1126  huh
+ 1127  sus
+ 1128  asa
+ 1129  man asa
+ 1130  asa
+ 1131  clea
+ 1132  clear
+ 1133  nvvv
+ 1134  nvchad
+ 1135  clear
+ 1136  wdutil
+ 1137  clear
+ 1138  tr
+ 1139  true
+ 1140  clear
+ 1141  false
+ 1142  true false
+ 1143  true < false
+ 1144  true --h
+ 1145  true --help
+ 1146  man true
+ 1147  csh
+ 1148  bsh
+ 1149  ash
+ 1150  lsh
+ 1151  clear
+ 1152  cosh
+ 1153  ii
+ 1154  oo
+ 1155  pp
+ 1156  pp small
+ 1157  small pp
+ 1158  clear
+ 1159  pp --h
+ 1160  apa
+ 1161  epe
+ 1162  qpq
+ 1163  spap
+ 1164  select
+ 1165  select --help
+ 1166  man select
+ 1167  look
+ 1168  man look
+ 1169  join
+ 1170  man join
+ 1171  brotli
+ 1172  man brotli
+ 1173  bri
+ 1174  man batch
+ 1175  man HTML::Element
+ 1176  htmltree
+ 1177  htmltree --help
+ 1178  ksh
+ 1179  posh
+ 1180  bosh
+ 1181  clear
+ 1182  josh
+ 1183  clear
+ 1184  mas
+ 1185  mandoc
+ 1186  man mandoc
+ 1187  popd
+ 1188  man popd
+ 1189  das
+ 1190  dash
+ 1191  no
+ 1192  nush
+ 1193  nettop
+ 1194  pamhue
+ 1195  man pamhue
+ 1196  tldr
+ 1197  brew install tldr
+ 1198  tldr pamhue
+ 1199  nk
+ 1200  pbmtonokia
+ 1201  jot
+ 1202  jot hu
+ 1203  L
+ 1204  l
+ 1205  m
+ 1206  purge
+ 1207  man bye
+ 1208  echo "KKK"
+ 1209  echo "\n\n"
+ 1210  clear
+ 1211  echo "\n"
+ 1212  echo "\t"
+ 1213  echo "\tx"
+ 1214  echo "\nx"
+ 1215  echo "\x"
+ 1216  echo "\xx"
+ 1217  echo "\n\nx"
+ 1218  pmset
+ 1219  nice
+ 1220  ld l
+ 1221  ll
+ 1222  l
+ 1223  pp
+ 1224  pppd
+ 1225  n=
+ 1226  ==[]
+ 1227  ]';[]'
+ 1228  ;[]'\n'
+ 1229  '\n'
+ 1230  mmn
+ 1231  k
+ 1232  kkkk
+ 1233  ckksctl
+ 1234  jdb
+ 1235  jshell
+ 1236  omz
+ 1237  omz update
+ 1238  graphml2gv
+ 1239  \t\th
+ 1240  \tj
+ 1241  \tl
+ 1242  bat l
+ 1243  bat | l
+ 1244  nvim fair_use.mhtml
+ 1245  diskctl
+ 1246  clear
+ 1247  http -v https://api.chess.com/pub/player/ananthpullur/stats
+ 1248  http -v https://api.chess.com/pub/player/Pheonix_fire12/stats
+ 1249  http -v https://api.chess.com/pub/player/Apoorv7g/stats
+ 1250  http -v https://api.chess.com/pub/player/pheonix_fire12/stats
+ 1251  http -v https://api.chess.com/pub/player/Phoenix_fire12/stats
+ 1252  http -v https://api.chess.com/pub/player/Phoenix_fire12/games
+ 1253  http -v https://api.chess.com/pub/player/ananthpullur/stats
+ 1254  http -v https://api.chess.com/pub/player/Phoenix_fire12/stats
+ 1255  http -v https://api.chess.com/pub/player/ananthpullur/stats
+ 1256  http -v https://api.chess.com/pub/player/phoenix_fire12/stats
+ 1257  http -v https://api.chess.com/pub/player/apoorv7g/stats
+ 1258  http -v https://api.chess.com/pub/puzzle
+ 1259  http -v https://api.chess.com/pub/puzzle/random
+ 1260  http -v https://api.chess.com/pub/player/ananthpullur/games/2024/12
+ 1261  http -v https://api.chess.com/pub/player/phoenix_fire12/games/2024/12/18
+ 1262  http -v https://api.chess.com/pub/player/phoenix_fire12/games/2024/12/17
+ 1263  http -v https://api.chess.com/pub/player/phoenix_fire12/games/2024/12/16
+ 1264  clear
+ 1265  http -v https://api.chess.com/pub/player/phoenix_fire12/games/2024/12/
+ 1266  http -v https://api.chess.com/pub/player/phoenix_fire12/games/2024/12
+ 1267  http -v https://api.chess.com/pub/player/phoenix_fire12/games/2024/12/18
+ 1268  http -v https://api.chess.com/pub/player/phoenix_fire12/games/2024/12
+ 1269  http -v https://www.chess.com/game/live/121550117924
+ 1270  http -v https://www.chess.com/bundles/app/js/tinymce/plugins/smileys.js
+ 1271  clear
+ 1272  http -v https://api.chess.com/pub/player/phoenix_fire12/games/2024/12
+ 1273  clear
+ 1274  mkcd chess
+ 1275  lsd
+ 1276  cd
+ 1277  rm -rf chess
+ 1278  rm -rf bat
+ 1279  lsd
+ 1280  rm -rf fair_use.mhtml jq
+ 1281  jq
+ 1282  clear
+ 1283  lsd
+ 1284  mkcd tigran
+ 1285  cd
+ 1286  rm -rf tigran
+ 1287  mkcd morphy
+ 1288  cd
+ 1289  rm -rf morphy
+ 1290  gh repo clone Uncool-dudes/morphy
+ 1291  cd morphy
+ 1292  npm run dev
+ 1293  next start
+ 1294  npm next dev
+ 1295  npm run next dev
+ 1296  npm run
+ 1297  npm run dev
+ 1298  npm run next dev
+ 1299  npm run dev
+ 1300  npm dev
+ 1301  npm run dev
+ 1302  npm install
+ 1303  npm run dev
+ 1304  cd
+ 1305  http -v https://api.chess.com/pub/player/phoenix_fire12/games/2024/12
+ 1306  cd morphy
+ 1307  code .
+ 1308  npx create-next-app@latest
+ 1309  git add *
+ 1310  git commit -m "Node + next - mantine"
+ 1311  git push
+ 1312  npx shadcn@latest init\n
+ 1313  npm install --save react-chessground
+ 1314  npm add react-chessground
+ 1315  npm install
+ 1316  npm i --save-dev @types/react-chessground
+ 1317  npm run dev
+ 1318  npx shadcn@latest add sidebar\n
+ 1319  npx shadcn@latest init\n
+ 1320  npm install --save react-chessground
+ 1321  npm run dev
+ 1322  npx shadcn@latest init\n
+ 1323  npx shadcn@latest init -d\n
+ 1324  npm install chess.js
+ 1325  npm run dev
+ 1326  npm install chess.js react-chessboard
+ 1327  npm run dev
+ 1328  clear
+ 1329  /Users/uncool/.pyenv/versions/3.13.0/bin/python /Users/uncool/.vscode/extensions/ms-python.python-2024.22.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/uncool/.vscode/extensions/ms-python.python-2024.22.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+ 1330  rm -rf .git
+ 1331  poetry init
+ 1332  poetry add python-chess
+ 1333  poetry install
+ 1334  /Users/uncool/.pyenv/versions/3.13.0/bin/python /Users/uncool/.vscode/extensions/ms-python.python-2024.22.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/uncool/.vscode/extensions/ms-python.python-2024.22.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+ 1335  poetry add requests
+ 1336  python run 
+ 1337  python run main.py
+ 1338  python3.13 main.py
+ 1339  python main.py
+ 1340  poetry add flask
+ 1341  python main.py
+ 1342  http -v https://api.chess.com/pub/player/ananthpullur/games/2024
+ 1343  http -v https://api.chess.com/pub/player/ananthpullur/games/2024/
+ 1344  http -v https://api.chess.com/pub/player/ananthpullur/games/
+ 1345  http -v https://api.chess.com/pub/player/ananthpullur/games
+ 1346  clear
+ 1347  http -v https://api.chess.com/pub/player/ananthpullur/games/
+ 1348  http -v https://api.chess.com/pub/player/ananthpullur/games
+ 1349  python main.py
+ 1350  poetry add datetime
+ 1351  python main.py
+ 1352  poetry remove datetime
+ 1353  python main.py
+ 1354  /Users/uncool/.pyenv/versions/3.13.0/bin/python /Users/uncool/.vscode/extensions/ms-python.python-2024.22.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/uncool/.vscode/extensions/ms-python.python-2024.22.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+ 1355  python main.py
+ 1356  clear
+ 1357  python main.py
+ 1358  http -v https://api.chess.com/pub/player/ananthpullur/games/2024/12
+ 1359  http -v https://api.chess.com/pub/player/ananthpullur/games/2024/12 > txt.txt
+ 1360  http -v https://api.chess.com/pub/player/ananthpullur/games/2024/12 > txt.json
+ 1361  python main.py
+ 1362  poetry add pgn_parser\n
+ 1363  python main.py
+ 1364  brew install stockfish
+ 1365  stockfish
+ 1366  where stockfish
+ 1367  python main.py
+ 1368  stockfish
+ 1369  python main.py
+ 1370  which stockfish\n
+ 1371  python main.py
+ 1372  poetry add pytz
+ 1373  python main.py
+ 1374  OA
+ 1375  python main.py
+ 1376  clear
+ 1377  npx shadcn@latest init\n
+ 1378  npm install @clerk/nextjs
+ 1379  npm run dev
+ 1380  npx shadcn@latest add input\n
+ 1381  npx shadcn@latest add "https://magicui.design/r/magic-card"\n
+ 1382  npm install next-themes\n
+ 1383  npm run dev
+ 1384  npm install next-themes
+ 1385  npm run dev
+ 1386  npx shadcn@latest add "https://magicui.design/r/border-beam"\n
+ 1387  npx shadcn@latest add switch\n
+ 1388  npx shadcn@latest add "https://magicui.design/r/animated-subscribe-button"\n
+ 1389  npm run dev
+ 1390  npx shadcn@latest add "https://magicui.design/r/interactive-hover-button"\n
+ 1391  npx shadcn@latest add "https://magicui.design/r/ripple-button"\n
+ 1392  npm run dev
+ 1393  npx shadcn@latest add "https://magicui.design/r/shimmer-button"\n
+ 1394  npm install animejs
+ 1395  npm i --save-dev @types/animejs
+ 1396  npx shadcn@latest init\n
+ 1397  yarn
+ 1398  yarn run dev
+ 1399  yarn add animejs\n
+ 1400  yarn install
+ 1401  npx shadcn@latest add "https://magicui.design/r/ripple"\n
+ 1402  lsd
+ 1403  cd ..
+ 1404  rm -rf morphy
+ 1405  npx create-next-app -e with-supabase 
+ 1406  mkcd morphy
+ 1407  npx create-next-app -e with-supabase 
+ 1408  npx shadcn@latest init\n
+ 1409  lsd
+ 1410  npx shadcn@latest add "https://magicui.design/r/ripple"\n
+ 1411  code .
+ 1412  yarn run dev
+ 1413  npm run dev
+ 1414  npx create-next-app -e with-supabase
+ 1415  lsd -a
+ 1416  npx create-next-app -e with-supabase
+ 1417  cd ..
+ 1418  lsd
+ 1419  rm -rf morphy
+ 1420  npx create-next-app -e with-supabase
+ 1421  npm run dev
+ 1422  npm install
+ 1423  cd morphy
+ 1424  npm run dev
+ 1425  npx shadcn@latest init\n
+ 1426  npm run dev
+ 1427  npm install @chrisoakman/chessboardjs\n
+ 1428  npm run dev
+ 1429  npm install @chrisoakman/chessboardjs\n
+ 1430  npm install chessboardjs @types/chessboardjs
+ 1431  npm install react-chessboard
+ 1432  npm install @types/chess.js
+ 1433  npm install chess.js
+ 1434  npx shadcn@latest add alert\n
+ 1435  https://api.chess.com/pub/puzzle/random
+ 1436  curl https://api.chess.com/pub/puzzle/random
+ 1437  http https://api.chess.com/pub/puzzle/random
+ 1438  npm run dev
+ 1439  npx shadcn@latest add "https://magicui.design/r/ripple-bu\n
+ 1440  npm run dev
+ 1441  npx shadcn@latest add "https://magicui.design/r/animated-circular-progress-bar"\n
+ 1442  npm run dev
+ 1443  npx shadcn@latest add card\n
+ 1444  npx shadcn@latest add button\n
+ 1445  npx shadcn@latest add "https://magicui.design/r/bento-grid"\n
+ 1446  npx shadcn@latest add calendar\n
+ 1447  npx shadcn@latest add "https://magicui.design/r/hyper-text"\n
+ 1448  npx shadcn@latest add "https://magicui.design/r/number-ticker"\n
+ 1449  http https://api.chess.com/pub/puzzle/random
+ 1450  http -v https://api.chess.com/pub/player/hikaru/stats
+ 1451  npx shadcn@latest add charts\n
+ 1452  npx shadcn@latest add chart\n
+ 1453  npx shadcn@latest add "https://magicui.design/r/fade-text"\n
+ 1454  npx shadcn@latest add "https://magicui.design/r/gradual-spacing"\n
+ 1455  npm install @heroicons/react
+ 1456  npm i --save-dev @types/heroicons__react
+ 1457  npm install @heroicons/react
+ 1458  npx -y next-video init\n
+ 1459  npm run dev
+ 1460  proc
+ 1461  ps
+ 1462  kill -9 59644 59379 59402 59667
+ 1463  npm run dev
+ 1464  ps
+ 1465  kill -9 59862
+ 1466  kill -9 59839
+ 1467  ps
+ 1468  mkcd tigran
+ 1469  npx create-next-app@latest
+ 1470  bun
+ 1471  yarn
+ 1472  npm run dev
+ 1473  http -v http://localhost:3000
+ 1474  http -v http://localhost:3000/
+ 1475  cd tigran
+ 1476  npm run dev
+ 1477  cd tigran
+ 1478  pnpm dlx shadcn@latest init d
+ 1479  pnpm dlx shadcn@latest init -d
+ 1480  npm run dev
+ 1481  npx shadcn@latest add "https://magicui.design/r/number-ticker"\n
+ 1482  npx shadcn@latest add "https://magicui.design/r/hyper-text"\n
+ 1483  npm install @clerk/nextjs
+ 1484  npm run dev
+ 1485  npm install -g nextui-cli
+ 1486  nextui init
+ 1487  cd ..
+ 1488  rm -rf tigran
+ 1489  nextui init tigran
+ 1490  npm run dev
+ 1491  cd tigran
+ 1492  npm run dev
+ 1493  clear
+ 1494  npm install
+ 1495  npm run dev
+ 1496  clear
+ 1497  npx shadcn@latest init\n
+ 1498  npx create-next-app@latest
+ 1499  npx shadcn@latest init\n
+ 1500  npm install @clerk/nextjs
+ 1501  npm run dev
+ 1502  npx shadcn@latest add navigation-menu\n
+ 1503  npx shadcn@latest add "https://magicui.design/r/hyper-text"\n
+ 1504  npx shadcn@latest add chart\n
+ 1505  npm install next-themes\n
+ 1506  npm run dev
+ 1507  npx shadcn@latest add dropdown-menu button\n
+ 1508  cd ..
+ 1509  mkcd bob
+ 1510  npx create-next-app@latest 
+ 1511  npm install @clerk/nextjs
+ 1512  touch .env.local middleware.ts
+ 1513  lsd
+ 1514  npx shadcn@latest init -d\n
+ 1515  npm install next-themes\n
+ 1516  npm run dev
+ 1517  npx shadcn@latest add dropdown-menu button\n
+ 1518  npm list next react react-dom
+ 1519  npm install next@latest react@latest react-dom@latest\n
+ 1520  npx shadcn@latest add "https://magicui.design/r/border-beam"\nnpx shadcn@latest add "https://magicui.design/r/border-beam"\n
+ 1521  npx shadcn@latest add "https://magicui.design/r/hyper-text" \n
+ 1522  npx shadcn@latest add card\n
+ 1523  npx shadcn@latest add "https://magicui.design/r/grid-pattern" \n
+ 1524  cd ..
+ 1525  mkcd python-textbook
+ 1526  code .
+ 1527  /Users/uncool/.pyenv/versions/3.13.0/bin/python /Users/uncool/.vscode/extensions/ms-python.python-2024.22.1-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/uncool/.vscode/extensions/ms-python.python-2024.22.1-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+ 1528  poetry init
+ 1529  poetry add pandas
+ 1530  poetry add scipy
+ 1531  poetry add numoy
+ 1532  poetry add numpy
+ 1533  poetry add statsmodels
+ 1534  poetry add mlxtend
+ 1535  poetry install
+ 1536  cd ..
+ 1537  cd bob
+ 1538  npm run dev
+ 1539  npx shadcn@latest add "https://magicui.design/r/dot-pattern" \n
+ 1540  npx shadcn@latest add "https://magicui.design/r/number-ticker"\n
+ 1541  npx shadcn@latest add "https://magicui.design/r/fade-text"\n
+ 1542  npx shadcn@latest add chart\n
+ 1543  cd
+ 1544  brew install anki
+ 1545  brew upgrade
+ 1546  /Users/uncool/.pyenv/versions/3.13.0/bin/python /Users/uncool/.vscode/extensions/ms-python.python-2024.22.1-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/uncool/.vscode/extensions/ms-python.python-2024.22.1-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+ 1547  npm run de
+ 1548  npm run dev
+ 1549  cd morphy
+ 1550  npm run dev
+ 1551  cd
+ 1552  npm run dev
+ 1553  http -v https://api.chess.com/pub/player/ananthpullur/games/2024/12
+ 1554  http -v https://api.chess.com/pub/player/ananthpullur/games
+ 1555  http -v https://api.chess.com/pub/player/ananthpullur/games/
+ 1556  http -v https://api.chess.com/pub/player/ananthpullur/games/2024
+ 1557  http -v https://api.chess.com/pub/player/ananthpullur/games
+ 1558  http https://api.chess.com/pub/player/hikaru/games
+ 1559  http https://api.chess.com/pub/player/hikaru/games/2024
+ 1560  http https://api.chess.com/pub/player/hikaru/games/2024/12
+ 1561  http https://api.chess.com/pub/player/ananthpullur/games/2024/12
+ 1562  clear
+ 1563  http https://api.chess.com/pub/player/ananthpullur/games/2024/12
+ 1564  http https://api.chess.com/pub/puzzle/random
+ 1565  npm run dev
+ 1566  http https://api.chess.com/pub/player/ananthpullur/games/2024/12
+ 1567  http https://api.chess.com/pub/player/hikaru/games/2024/12
+ 1568  npm run dev
+ 1569  /Users/uncool/.pyenv/versions/3.13.0/bin/python /Users/uncool/.vscode/extensions/ms-python.python-2024.22.1-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/uncool/.vscode/extensions/ms-python.python-2024.22.1-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+ 1570  latex
+ 1571  pdflatex
+ 1572  brew install mactex-no-gui
+ 1573  clear
+ 1574  mkcd uorchid
+ 1575  npm create next-app
+ 1576  nexty
+ 1577  next
+ 1578  lsd
+ 1579  nvim
+ 1580  code .
+ 1581  nvim
+ 1582  brew install fzf
+ 1583  nvim
+ 1584  cd
+ 1585  nvim .config/nvim
+ 1586  cd uorchid
+ 1587  nvim
+ 1588  eslint
+ 1589  cd
+ 1590  brew install eslint
+ 1591  brew uninstall eslint
+ 1592  brew install ghostty
+ 1593  ghost
+ 1594  ghostty
+ 1595  nvim
+ 1596  cd uorchid
+ 1597  nvim
+ 1598  next start
+ 1599  npm run dev
+ 1600  npm i @kinde-oss/kinde-auth-nextjs
+ 1601  npm install next@latest react@latest react-dom@latest\n
+ 1602  npm i @kinde-oss/kinde-auth-nextjs
+ 1603  npm run dev
+ 1604  npm create next-app
+ 1605  npm install next@latest react@latest react-dom@latest\n
+ 1606  npx shadcn@latest init -d\n
+ 1607  npm i @kinde-oss/kinde-auth-nextjs
+ 1608  npm run dev
+ 1609  npm create next-app
+ 1610  npm install next@latest react@latest react-dom@latest\n
+ 1611  npm i @kinde-oss/kinde-auth-nextjs
+ 1612  npm run dev
+ 1613  npm create next-app
+ 1614  npm install next@latest react@latest react-dom@latest\n
+ 1615  npm i @kinde-oss/kinde-auth-nextjs
+ 1616  npm run dev
+ 1617  npm i @kinde-oss/kinde-auth-nextjs
+ 1618  npm run dev
+ 1619  npm i
+ 1620  npm run dev
+ 1621  npm create next-app
+ 1622  npm install next@latest react@latest react-dom@latest\n
+ 1623  npm install @clerk/nextjs
+ 1624  npx shadcn@latest init -d\n
+ 1625  npm run dev
+ 1626  br
+ 1627  oil
+ 1628  nnn
+ 1629  brew install zed
+ 1630  npm install @heroicons/react
+ 1631  npm run dev
+ 1632  npm create next-app
+ 1633  npm install @clerk/nextjs
+ 1634  npm run dev
+ 1635  npm install @heroicons/react
+ 1636  npm install next@latest react@latest react-dom@latest\n
+ 1637  npm install @heroicons/react
+ 1638  npm run dev
+ 1639  brew install chromium
+ 1640  brew unistall chromium
+ 1641  brew uninstall chromium
+ 1642  npm install next-themes\n
+ 1643  npx shadcn@latest init -d\n
+ 1644  cd ..
+ 1645  npm run dev
+ 1646  code .
+ 1647  npm run dev
+ 1648  cd ..
+ 1649  lsd
+ 1650  cd bob
+ 1651  code .
+ 1652  npm run dev
+ 1653  npx shadcn@latest add "https://magicui.design/r/fade-text" \n
+ 1654  npx shadcn@latest add chart\n
+ 1655  npx shadcn@latest add "https://magicui.design/r/text-animate"\n
+ 1656  npx shadcn@latest add "https://magicui.design/r/number-ticker"\n
+ 1657  npx shadcn@latest add "https://magicui.design/r/dot-pattern" \n
+ 1658  npx shadcn@latest add "https://magicui.design/r/border-beam"\nnpx shadcn@latest add "https://magicui.design/r/border-beam"\n
+ 1659  npx shadcn@latest add button\n
+ 1660  npx shadcn@latest add dropdown-menu button\n
+ 1661  cd ..
+ 1662  cd tigran
+ 1663  npm run dev
+ 1664  lsd
+ 1665  cd ..
+ 1666  cd morphy
+ 1667  npm run dev
+ 1668  cd morphy
+ 1669  cd app
+ 1670  lsd
+ 1671  code homepage
+ 1672  npm run dev
+ 1673  npm install @supabase/supabase-js\n
+ 1674  npm install @supabase/ssr
+ 1675  npm install @neondatabase/serverless
+ 1676  npm uninstall @neondatabase/serverless
+ 1677  npm install @supabase/supabase-js @supabase/ssr\n
+ 1678  npm run dev
+ 1679  mkcd grantpa
+ 1680  npm create next-app 
+ 1681  npm install next@latest react@latest react-dom@latest\n
+ 1682  npm install @supabase/supabase-js @supabase/ssr\n
+ 1683  npm install next-themes\n
+ 1684  npx shadcn@latest init -d\n
+ 1685  npm install @clerk/nextjs
+ 1686  lsd
+ 1687  nvim
+ 1688  code .
+ 1689  npm install zod
+ 1690  \nnpm install @hookform/resolvers
+ 1691  \nnpm install react-hook-form
+ 1692  npm install sonner
+ 1693  npx shadcn@latest add button form input\n
+ 1694  npm run dev
+ 1695  npx shadcn@latest add slider\n
+ 1696  npx shadcn@latest add text-area\n
+ 1697  npx shadcn@latest add textarea\n
+ 1698  npx shadcn@latest add fileupload\n
+ 1699  http https://api.chess.com/pub/player/hikaru/games/2024/12
+ 1700  grep -h
+ 1701  man grep
+ 1702  npm run dev
+ 1703  http https://api.chess.com/pub/player/MagnusCarlsen/games/2024/12
+ 1704  http https://api.chess.com/pub/player/magnuscarlsen/games/2024/12
+ 1705  npm run dev
+ 1706  http https://api.chess.com/pub/player/magnuscarlsen/games
+ 1707  http https://api.chess.com/pub/player/oirat202/2025/01
+ 1708  http https://api.chess.com/pub/player/junnoatman/2025/01
+ 1709  http https://api.chess.com/pub/player/junnoatman/games/2025/01
+ 1710  clear
+ 1711  http https://api.chess.com/pub/player/erik/games/2009/10
+ 1712  npm install chess.js react-chessboard
+ 1713  npx shadcn@latest add alert\n
+ 1714  npx shadcn@latest add alert-dialog\n
+ 1715  npm run dev
+ 1716  http https://api.chess.com/pub/puzzle/random
+ 1717  cd
+ 1718  mkcd paul
+ 1719  npm create next-app 
+ 1720  npm install next@latest react@latest react-dom@latest \n
+ 1721  npm install @clerk/nextjs
+ 1722  npm install chess.js react-chessboard
+ 1723  npm install @supabase/supabase-js @supabase/ssr\n
+ 1724  nvim
+ 1725  code .
+ 1726  http https://api.chess.com/pub/puzzle/random
+ 1727  code .
+ 1728  /Users/uncool/.pyenv/versions/3.13.0/bin/python /Users/uncool/.vscode/extensions/ms-python.python-2024.22.1-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/uncool/.vscode/extensions/ms-python.python-2024.22.1-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+ 1729  printenv > "/var/folders/t4/2jyjn5hd7b3d4g17wsc47g2r0000gn/T/tmp-5776000AxUwNzAWh1.txt"
+ 1730  /Users/uncool/.pyenv/versions/3.13.0/bin/python /Users/uncool/.vscode/extensions/ms-python.python-2024.22.1-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/uncool/.vscode/extensions/ms-python.python-2024.22.1-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+ 1731  npm run dev
+ 1732  nvim
+ 1733  npm install svix
+ 1734  nvim .env.local
+ 1735  nvim
+ 1736  npm install -g localtunnel\n
+ 1737  cd paul
+ 1738  npm run dev
+ 1739  lt --port 3000
+ 1740  git remote add "origin" git@github.com:Uncool-dudes/moprhy.git
+ 1741  git add *
+ 1742  git commit -m "testing webhooks"
+ 1743  cat .env.local
+ 1744  npm run dev
+ 1745  cd
+ 1746  cd bob
+ 1747  npm run dev
+ 1748  lsd
+ 1749  npm run dev
+ 1750  cd
+ 1751  cd uorchid
+ 1752  npm run dev
+ 1753  ps
+ 1754  clear
+ 1755  cd
+ 1756  trash
+ 1757  lsd
+ 1758  peek
+ 1759  rm -rf tigran
+ 1760  lsd
+ 1761  rm -rf bob
+ 1762  cd paul
+ 1763  nvim
+ 1764  cd app
+ 1765  cd src
+ 1766  cd app
+ 1767  mkdir ./{dashboard,puzzle}/{_widgets,_features,_pages}
+ 1768  mkdir {dashboard,puzzle}/{_widgets,_features,_pages}
+ 1769  lsd
+ 1770  mkdir {dashboard,puzzle}
+ 1771  lsd
+ 1772  mkdir {dashboard,puzzle}/{_widgets,_features,_pages}
+ 1773  lsd
+ 1774  cd dashboard
+ 1775  lsd
+ 1776  br
+ 1777  cd _features
+ 1778  mkdir playerStatistics
+ 1779  mkdir ratingDiffrential
+ 1780  mkdir tournamentParticipation
+ 1781  cd ../..
+ 1782  lsd
+ 1783  cd puzzle
+ 1784  cd _feature
+ 1785  cd _features
+ 1786  lsd
+ 1787  mkdir getPuzzle
+ 1788  mkdir validMoves
+ 1789  mkdir moveRating
+ 1790  cd ..
+ 1791  cd _features
+ 1792  touch {getPuzzle,moveRating,validMoves}/index.ts
+ 1793  lsd -a
+ 1794  cd getPuzzle
+ 1795  lsd
+ 1796  cd ..
+ 1797  cd moveRating
+ 1798  lsd
+ 1799  cd ..
+ 1800  clear
+ 1801  cd .....
+ 1802  code .
+ 1803  curl https://stockfish.online/api/s/v2.php
+ 1804  curl https://stockfish.online/api/s/v2.php --header "fen: rn1q1rk1/pp2b1pp/2p2n2/3p1pB1/3P4/1QP2N2/PP1N1PPP/R4RK1 b - - 1 11" --header "depth: 12"
+ 1805  curl https://stockfish.online/api/s/v2.php --header "fen: rn1q1rk1/pp2b1pp/2p2n2/3p1pB1/3P4/1QP2N2/PP1N1PPP/R4RK1 b - - 1 11" -d depth=12
+ 1806  curl https://stockfish.online/api/s/v2.php -d fen="rn1q1rk1/pp2b1pp/2p2n2/3p1pB1/3P4/1QP2N2/PP1N1PPP/R4RK1 b - - 1 11" -d depth=12
+ 1807  curl 
+ 1808  http 
+ 1809  curl 'https://stockfish.online/api/s/v2.php?fen=rn1q1rk1/pp2b1pp/2p2n2/3p1pB1/3P4/1QP2N2/PP1N1PPP/R4RK1%20b%20-%20-%201%2011&depth=12' \\n  -H 'accept: */*' \\n  -H 'accept-language: en-US,en;q=0.9' \\n  -H 'dnt: 1' \\n  -H 'priority: u=1, i' \\n  -H 'referer: https://stockfish.online/' \\n  -H 'sec-ch-ua: "Chromium";v="131", "Not_A Brand";v="24"' \\n  -H 'sec-ch-ua-mobile: ?0' \\n  -H 'sec-ch-ua-platform: "macOS"' \\n  -H 'sec-fetch-dest: empty' \\n  -H 'sec-fetch-mode: cors' \\n  -H 'sec-fetch-site: same-origin' \\n  -H 'sec-gpc: 1' \\n  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36'
+ 1810  npm run dev
+ 1811  nvim
+ 1812  code .
+ 1813  npm run dev
+ 1814  npx shadcn@latest add button\n
+ 1815  npx shadcn@latest add alert-dialog\n
+ 1816  npx shadcn@latest add card\n
+ 1817  npm install @supabase/auth-helpers-nextjs
+ 1818  nvim
+ 1819  code .
+ 1820  npm run dev
+ 1821  npx shadcn@latest add "https://magicui.design/r/number-ticker"\n
+ 1822  npx shadcn@latest add "https://magicui.design/r/dot-pattern" \n
+ 1823  npx shadcn@latest add "https://magicui.design/r/text-animate"\n
+ 1824  npx shadcn@latest add chart\n
+ 1825  npx shadcn@latest add "https://magicui.design/r/border-beam"\n
+ 1826  npx shadcn@latest add dropdown-menu\n
+ 1827  npm install next-themes\n
+ 1828  nvim
+ 1829  mkcd chessy
+ 1830  npm create next-app 
+ 1831  mkcd front
+ 1832  gh repo clone Ani07-05/chessY
+ 1833  lsd
+ 1834  rm -rf chessY
+ 1835  gh repo clone Ani07-05/chessY .
+ 1836  lsd
+ 1837  nvim
+ 1838  npm install @supabase/supabase-js @supabase/ssr\n
+ 1839  npm install next@latest react@latest react-dom@latest \n
+ 1840  npm install @supabase/supabase-js @supabase/ssr\n
+ 1841  npm install chess.js react-chessboard
+ 1842  npm install @clerk/nextjs
+ 1843  npx shadcn@latest init -d\n
+ 1844  npx shadcn@latest add chart\n
+ 1845  nvim 
+ 1846  cd chessy
+ 1847  CD src/app
+ 1848  lsd
+ 1849  cd src/app
+ 1850  lsd
+ 1851  mkdir {puzzle,signin,signup}
+ 1852  touch {puzzle,signin,signup,dashbboard}/page.tsx
+ 1853  touch {puzzle,signin,signup,dashboard}/page.tsx
+ 1854  lsd
+ 1855  cd src
+ 1856  lsd
+ 1857  cd app
+ 1858  lsd
+ 1859  mkdir {puzzle,signin,signup,dashboard}/{_components,_functions,_pages}
+ 1860  cd dash
+ 1861  cd dashboard
+ 1862  lsd
+ 1863  cd ..
+ 1864  ld
+ 1865  lsd
+ 1866  clear
+ 1867  cls
+ 1868  clear
+ 1869  lsd
+ 1870  mkdir {puzzle,signin,signup,dashboard}/{_types}
+ 1871  lsd
+ 1872  mkdir {puzzle,signin,signup,dashboard}/{_components,_functions,_pages,_types}
+ 1873  cd dashboard
+ 1874  lsd
+ 1875  cd ..
+ 1876  cd dashboard 
+ 1877  lsd
+ 1878  touch _types/index.ts
+ 1879  cd ..
+ 1880  touch {puzzle,signin,signup,dashbboard}/_types/index.ts
+ 1881  cd dashboard
+ 1882  lsd
+ 1883  cd _types
+ 1884  lsd
+ 1885  cd ..
+ 1886  cd puzzle
+ 1887  cd _types
+ 1888  lsd
+ 1889  cd ....
+ 1890  cd app
+ 1891  lsd
+ 1892  nvim
+ 1893  br
+ 1894  nnn
+ 1895  clear
+ 1896  code .
+ 1897  cd ....
+ 1898  npx shadcn@latest add "https://magicui.design/r/dot-pattern" \n
+ 1899  npm install
+ 1900  brew upgrade
+ 1901  npx shadcn@latest add "https://magicui.design/r/dot-pattern" \n
+ 1902  npm run dev
+ 1903  npx shadcn@latest add "https://magicui.design/r/magic-card"\n
+ 1904  npm install next-themes\n
+ 1905  npx shadcn@latest add "https://magicui.design/r/text-animate"\n
+ 1906  npx shadcn@latest add carousel\n
+ 1907  npm run dev
+ 1908  npm init
+ 1909  npm run dev
+ 1910  npm install @clerk/nextjs
+ 1911  npm install @supabase/supabase-js @supabase/ssr\n
+ 1912  npx shadcn@latest add "https://magicui.design/r/number-ticker"\n
+ 1913  npx shadcn@latest add dropdown-menu\n
+ 1914  npx shadcn@latest add "https://magicui.design/r/border-beam"\n
+ 1915  npm run dev
+ 1916  cd
+ 1917  mkcd asfidel
+ 1918  npm create next-app 
+ 1919  npm install next@latest react@latest react-dom@latest \n
+ 1920  mkdir src/db
+ 1921  mkdir drizzle
+ 1922  touch drizzle.config.ts
+ 1923  touch src/db/schema.ts
+ 1924  touch .env.local
+ 1925  pnpm add drizzle-orm postgres dotenv\npnpm add -D drizzle-kit tsx
+ 1926  pnpm install
+ 1927  pnpm add  next@latest react@latest react-dom@latest \n
+ 1928  npm i drizzle-orm postgres dotenv\nnpm i -D drizzle-kit tsx
+ 1929  ~nvim
+ 1930  nvim
+ 1931  lsd -a
+ 1932  ncim
+ 1933  nvim
+ 1934  nvim .env.local 
+ 1935  nvim
+ 1936  npm i drizzle-orm postgres dotenv\nnpm i -D drizzle-kit tsx
+ 1937  nvim
+ 1938  clear
+ 1939  cd
+ 1940  lsd
+ 1941  nvim
+ 1942  cd chessy
+ 1943  nvim 
+ 1944  nvim
+ 1945  mv
+ 1946  ,
+ 1947  ..
+ 1948  ....
+ 1949  ..
+ 1950  .sd
+ 1951  pwd
+ 1952  cd  home
+ 1953  lsd
+ 1954  ls
+ 1955  lsd -a
+ 1956  cd /
+ 1957  cd ~
+ 1958  cd s
+ 1959  l
+ 1960  o
+ 1961  p
+ 1962  i
+ 1963  u
+ 1964  m
+ 1965  n
+ 1966  nvim
+ 1967  q
+ 1968  mk
+ 1969  lo
+ 1970  ;p
+ 1971  ;
+ 1972  '\n'
+ 1973  ';'
+ 1974  'l';''
+ 1975  ''
+ 1976  sudo ''
+ 1977  lsd
+ 1978  cd uorchid
+ 1979  npm run dev
+ 1980  nvim
+ 1981  cd ..
+ 1982  cd paul
+ 1983  npm run dev
+ 1984  brew upgrade
+ 1985  brew uninstall superhuman
+ 1986  mkcd projects
+ 1987  mkcd rain
+ 1988  npx create-next-app@latest 
+ 1989  cd ..
+ 1990  rm -rf rain/
+ 1991  mkcd rain
+ 1992  npx create-next-app@latest
+ 1993  npm install next@latest react@latest react-dom@latest \n
+ 1994  npm i drizzle-orm pg dotenv
+ 1995  npm i -D drizzle-kit tsx @types/pg
+ 1996  touch .env.local
+ 1997  mkdir drizzle
+ 1998  mkdir src/db
+ 1999  touch src/db/schema.ts
+ 2000  touch drizzle.config.ts
+ 2001  echo "DATABASE_URL=" > .env.local
+ 2002  cat .env.local
+ 2003  nvim
+ 2004  npx drizzle-kit push\n
+ 2005  npx drizzle-kit generate\n
+ 2006  nvim
+ 2007  npx shadcn@latest init\n
+ 2008  nvim
+ 2009  cd projects
+ 2010  cd rain
+ 2011  "use client"\n\nimport * as React from "react"\nimport { format } from "date-fns"\nimport { CalendarIcon } from "lucide-react"\n\nimport { cn } from "@/lib/utils"\nimport { Button } from "@/components/ui/button"\nimport { Calendar } from "@/components/ui/calendar"\nimport {\n  Popover,\n  PopoverContent,\n  PopoverTrigger,\n} from "@/components/ui/popover"\n\nexport function DatePickerDemo() {\n  const [date, setDate] = React.useState<Date>()\n\n  return (\n    <Popover>\n      <PopoverTrigger asChild>\n        <Button\n          variant={"outline"}\n          className={cn(\n            "w-[240px] justify-start text-left font-normal",\n            !date && "text-muted-foreground"\n          )}\n        >\n          <CalendarIcon />\n          {date ? format(date, "PPP") : <span>Pick a date</span>}\n        </Button>\n      </PopoverTrigger>\n      <PopoverContent className="w-auto p-0" align="start">\n        <Calendar\n          mode="single"\n          selected={date}\n          onSelect={setDate}\n          initialFocus\n        />\n      </PopoverContent>\n    </Popover>\n  )\n
+ 2012  npx shadcn@latest add popover\n
+ 2013  npx shadcn@latest add calendar\n
+ 2014  npm run dev
+ 2015  cd projects/rain
+ 2016  npx shadcn@latest add input form\n
+ 2017  npm install sonner
+ 2018  npx shadcn@latest add sonner\n
+ 2019  npm run dev
+ 2020  /Users/uncool/.pyenv/versions/3.13.0/bin/python /Users/uncool/.vscode/extensions/ms-python.python-2024.22.2-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/uncool/.vscode/extensions/ms-python.python-2024.22.2-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+ 2021  poetry add plotly
+ 2022  poetry add stemgraphic
+ 2023  poetry add seaborn
+ 2024  brew install marked2
+ 2025  brew install marked
+ 2026  marked
+ 2027  marked -h
+ 2028  brew uninstall marked
+ 2029  brew upgrade
+ 2030  brew install --cask marked
+ 2031  brew uninstall mochi
+ 2032  brew ls --cask | bat
+ 2033  brew uninstall ghostty
+ 2034  nvim
+ 2035  mkcd sem4
+ 2036  mkdir {ComputerNetworks,AgileDevOps,CloudComputing,MathInNature,IPEED}
+ 2037  mkdir {AgileDevOps,CloudComputing,ComputerNetworks,IPEED,MathInNature}/{resources,projects,misc}
+ 2038  tree
+ 2039  brew install tree
+ 2040  SLD
+ 2041  LSD
+ 2042  mkdir {ComputerNetworks,AgileDevOps,CloudComputing,MathInNature,IPEED,MachineLearning}
+ 2043  cd sem 4
+ 2044  cd sem4
+ 2045  mkdir {AgileDevOps,CloudComputing,ComputerNetworks,IPEED,MathInNature,MachineLearning}/{resources,projects,misc}
+ 2046  lsd
+ 2047  nvim
+ 2048  nvim 
+ 2049  brew install font-iosevka-nerd-font font-monoid-nerd-font
+ 2050  nvim 
+ 2051  cmatrix
+ 2052  nvim 
+ 2053  brew install font-iosevka-nerd-font font-monoid-nerd-font
+ 2054  nvim 
+ 2055  cd sem4/IPEED/projects
+ 2056  cd
+ 2057  cd paul
+ 2058  nvim
+ 2059  x
+ 2060  tre
+ 2061  tree-sitter
+ 2062  nvim
+ 2063  he is retarded
+ 2064  agreed *10
+ 2065  agreed 
+ 2066  as
+ 2067  amt
+ 2068  sudo amt
+ 2069  audit
+ 2070  nvim
+ 2071  ai
+ 2072  find 
+ 2073  clear
+ 2074  /Users/uncool/.pyenv/versions/3.13.0/bin/python /Users/uncool/.vscode/extensions/ms-python.python-2024.22.2-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/uncool/.vscode/extensions/ms-python.python-2024.22.2-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+ 2075  cd semnvim
+ 2076  cd 
+ 2077  cd sem4/MachineLearning/projects
+ 2078  cd
+ 2079  nvim test.c
+ 2080  gcc test.c 
+ 2081  ./a.out
+ 2082  cd sem4/
+ 2083  mkcd misc
+ 2084  cd sem4/
+ 2085  mkdir {misc}/{resources,projects,misc}
+ 2086  lsd
+ 2087  cd misc
+ 2088  lsd
+ 2089  mkdir {resources,projects,misc}
+ 2090  lsd
+ 2091  cd pro
+ 2092  cd projects
+ 2093  npm create next-app genq
+ 2094  cd sem4/MachineLearning/misc
+ 2095  code .
+ 2096  /Users/uncool/.pyenv/versions/3.13.0/bin/python /Users/uncool/.vscode/extensions/ms-python.python-2024.22.2-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/uncool/.vscode/extensions/ms-python.python-2024.22.2-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+ 2097  cd ..
+ 2098  poetry init
+ 2099  poetry add matplotlib
+ 2100  poetry add sklearn
+ 2101  poetry add scikit-learn
+ 2102  /Users/uncool/.pyenv/versions/3.13.0/bin/python /Users/uncool/.vscode/extensions/ms-python.python-2024.22.2-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/uncool/.vscode/extensions/ms-python.python-2024.22.2-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+ 2103  sks
+ 2104  la
+ 2105  l
+ 2106  clear
+ 2107  gzip Q2Demeters
+ 2108  gzip Q2Demeters/*
+ 2109  poetry add scikit-learn
+ 2110  cd sem4/MachineLearning
+ 2111  poetry list
+ 2112  poetry env list
+ 2113  poetry env -h
+ 2114  poetry env info
+ 2115  poetry env info --path
+ 2116  poetry add scikit-learn
+ 2117  cd M
+ 2118  cd MachineLearning
+ 2119  poetry add scikit-learn
+ 2120  npx shadcn@latest init\n
+ 2121  lsd
+ 2122  cd genq
+ 2123  npx shadcn@latest init\n
+ 2124  npx shadcn@latest add data-table\n
+ 2125  npx shadcn@latest add table\n
+ 2126  npm install @tanstack/react-table\n
+ 2127  npm install next@latest react@latest react-dom@latest \n
+ 2128  npm install @tanstack/react-table\n
+ 2129  clear
+ 2130  npm install @supabase/supabase-js @supabase/ssr\n
+ 2131  code .
+ 2132  npm run dev
+ 2133  pm ls punycode
+ 2134  npm ls punycode
+ 2135  npm update eslint
+ 2136  npm ls punycode
+ 2137  npm install eslint@latest
+ 2138  npm ls punycode
+ 2139  npm install --save qrcode\n
+ 2140  npm i --save-dev @types/qrcode
+ 2141  nvim
+ 2142  /Users/uncool/.pyenv/versions/3.13.0/bin/python /Users/uncool/.vscode/extensions/ms-python.python-2024.22.2-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/uncool/.vscode/extensions/ms-python.python-2024.22.2-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+ 2143  nvim
+ 2144  cd 
+ 2145  mkcd test
+ 2146  npx sv create
+ 2147  cd..
+ 2148  cd .. 
+ 2149  cd sem4/IPEED/projects
+ 2150  mkdir chessy
+ 2151  cd chessy
+ 2152  npx create-remix-app
+ 2153  npx create-remix@latest
+ 2154  nvim
+ 2155  code .
+ 2156  cd ..
+ 2157  rm -rf chessy
+ 2158  mkcd chessy
+ 2159  npx create-remix@latest
+ 2160  code .
+ 2161  npm ls react
+ 2162  npm install eslint@latest
+ 2163  npm install next@latest react@latest react-dom@latest \n
+ 2164  npm install react@latest react-dom@latest \n
+ 2165  clear
+ 2166  npm install react@latest react-dom@latest \n
+ 2167  cd ..
+ 2168  rm -rf chessy
+ 2169  mkcd chessy
+ 2170  npm create next-app 
+ 2171  lsd
+ 2172  lsd -a
+ 2173  npm create next-app . 
+ 2174  lsd -a
+ 2175  rm -rf .git
+ 2176  npm create next-app@latest . 
+ 2177  npm ls react
+ 2178  npm ls next
+ 2179  npm ls eslin
+ 2180  npm ls eslint
+ 2181  npm ls drizzle
+ 2182  pnpm
+ 2183  pnpm add drizzle-orm\npnpm add -D drizzle-kit
+ 2184  cd ..
+ 2185  rm -rf chessy/
+ 2186  npm create next-app@latest . --use-pnpm
+ 2187  npm create next-app@latest . \\n--use-pnpm\\n--tailwind\\n--eslint\
+ 2188  npm create next-app@latest .\\n--use-pnpm --ts \\n--tailwind --eslint \\n--app --src-dir --turbopack --empty
+ 2189  npm create next-app@latest . \\n--use-pnpm --ts \\n--tailwind --eslint \\n--app --src-dir --turbopack --empty
+ 2190  npm create next-app@latest . \n--use-pnpm --ts \n--tailwind --eslint \n--app --src-dir --turbopack --empty
+ 2191  npm create next-app@latest chessy \n--use-pnpm --ts \n--tailwind --eslint \n--app --src-dir --turbopack --empty
+ 2192  npm create next-app@latest chessy --use-pnpm --ts --tailwind --eslint --app --src-dir --turbopack --empty --yes
+ 2193  pnpm ls react
+ 2194  cd chessy
+ 2195  lsd
+ 2196  cd chessy
+ 2197  pnpm ls react
+ 2198  pnpm list
+ 2199  pnpm list react
+ 2200  pnpm install
+ 2201  rm -rf node_modules
+ 2202  pnpm install
+ 2203  nvim package.json
+ 2204  lsd 
+ 2205  nvim
+ 2206  pnpm add drizzle-orm postgres dotenv\npnpm add -D drizzle-kit tsx
+ 2207  cd ..
+ 2208  cd chessy/
+ 2209  pnpm 
+ 2210  pnpm  list rreact
+ 2211  pnpm  list react
+ 2212  pnpm run dev
+ 2213  pnpm add drizzle-orm postgres dotenv\npnpm add -D drizzle-kit tsx
+ 2214  cd ..
+ 2215  rm -rf chessy/
+ 2216  pnpm dlx create-next-app@latest chessy
+ 2217  cd
+ 2218  2
+ 2219  lsd
+ 2220  code .
+ 2221  pnpm add drizzle-orm postgres dotenv\npnpm add -D drizzle-kit tsx
+ 2222  pnpm list react
+ 2223  pnpm add drizzle-orm postgres dotenv\npnpm add -D drizzle-kit tsx
+ 2224  pnpm upgrade
+ 2225  pnpm update
+ 2226  brew upgarde
+ 2227  brew upgrade
+ 2228  pnpm -v
+ 2229  pnpm dev
+ 2230  npm
+ 2231  nbim
+ 2232  nvim
+ 2233  brew install prettier
+ 2234  pnpm list prettier
+ 2235  pnpm add --save-dev --save-exact prettier
+ 2236  pnpm list prettier
+ 2237  pnpm add --save-dev --save-exact prettier@latest
+ 2238  pnpm list prettier
+ 2239  node --eval "fs.writeFileSync('.prettierrc','{}\n')"
+ 2240  node --eval "fs.writeFileSync('.prettierignore','# Ignore artifacts:\nbuild\ncoverage\n')"
+ 2241  pnpm add drizzle-orm postgres dotenv\npnpm add -D drizzle-kit tsx
+ 2242  touch drizzle.config.ts
+ 2243  pnpm exec prettier . --write
+ 2244  eslint 
+ 2245  pnpm add --save-dev eslint-config-prettier
+ 2246  brew install chrome
+ 2247  brew install  google-chrome@dev
+ 2248  brew uninstall  google-chrome@dev
+ 2249  rm -rf .git
+ 2250  git init
+ 2251  lsd
+ 2252  git add *
+ 2253  pnpm install
+ 2254  rm -rf .git
+ 2255  pnpm dlx create-next-app@latest chessy -yes
+ 2256  pnpm dlx create-next-app@latest chessy --yes
+ 2257  rm -rf chessy/
+ 2258  pnpm dlx create-next-app@latest .--yes
+ 2259  pnpm dlx create-next-app@latest . --yes
+ 2260  pnpm add drizzle-orm postgres dotenv\npnpm add -D drizzle-kit tsx
+ 2261  touch drizzle.config.ts
+ 2262  rm -rf .git
+ 2263  pnpm dlx create-next-app@latest . --yes
+ 2264  pnpm add -D vitest @vitejs/plugin-react jsdom @testing-library/react @testing-library/dom vite-tsconfig-paths
+ 2265  pnpm i next@canary\n
+ 2266  pnpm i next@latest\n
+ 2267  touch vitest.config.mts
+ 2268  pnpm run lint
+ 2269  pnpm run test
+ 2270  pnpm test
+ 2271  lsd
+ 2272  mkdir src/{entities,features,views,shared,widgets,pages}
+ 2273  pnpm test
+ 2274  pnpm dev
+ 2275  pnpm test
+ 2276  clear
+ 2277  pnpm add react-chessboard
+ 2278  zsh-history\n
+ 2279  history
+ 2280  history > text.txt
+ 2281  pnpm add chess.js
+ 2282  clear
+ 2283  pnpm list chess.j
+ 2284  pnpm list chess.js
+ 2285  pnpm install
+ 2286  pnpm run dev
+ 2287  clear
+ 2288  rm -rf .git
+ 2289  pnpm dlx create-next-app@latest . 
+ 2290  pnpm dev
+ 2291  clear
+ 2292  pnpm add -D vitest @vitejs/plugin-react jsdom @testing-library/react @testing-library/dom vite-tsconfig-paths
+ 2293  pnpm run dev
+ 2294  code .
+ 2295  pnpm dev
+ 2296  touch vitest.config.mts
+ 2297  pnpm test
+ 2298  pnpm add react-chessboard chess.js
+ 2299  rm -rf .git
+ 2300  npm create next-app@latest . 
+ 2301  npm i react-chessboard\n
+ 2302  npm run dev
+ 2303  clear
+ 2304  npm create next-app . 
+ 2305  rm -rf .git
+ 2306  pnpm dlx create-next-app@latest . 
+ 2307  clear
+ 2308  pnpm dlx create-next-app@latest . --yes
+ 2309  pnpm add react-chessboard chess.js
+ 2310  pnpm run dev
+ 2311  pnpm add react-chessboard@latest chess.js
+ 2312  pnpm list react-chessboard
+ 2313  pnpm dlx create-next-app@alpha . --yes
+ 2314  pnpm add react-chessboard@alpha chess.js
+ 2315  pnpm list createContext
+ 2316  pnpm add  dnd-core @types/react-dnd
+ 2317  pnpm add  dnd-core 
+ 2318  rm -rf .git
+ 2319  pnpm dlx create-next-app . --yes
+ 2320  pnpm 
+ 2321  pnpm list next
+ 2322  pnpm list react
+ 2323  pnpm add react-chessboard@alpha chess.js
+ 2324  pnpm run dev
+ 2325  npm run dev
+ 2326  pnpm install
+ 2327  pnpm dev
+ 2328  pnpm install
+ 2329  pnpm dev
+ 2330  pnpm run dev
+ 2331  pnpm i
+ 2332  pnpm dev
+ 2333  pnpm outdated
+ 2334  clear
+ 2335  npm create next-app@latest . 
+ 2336  npm install chess.js react-chessboard
+ 2337  npm run dev
+ 2338  pnpm dev
+ 2339  pnpm i
+ 2340  cd ..
+ 2341  mkcd chesszy
+ 2342  pnpm dlx create-next-app . --yes
+ 2343  lsd
+ 2344  pnpm add react-chessboard@latest chess.js@latest
+ 2345  pnpm -h-
+ 2346  pnpm -h
+ 2347  pnpm dev -h
+ 2348  pnpm dev clear ache
+ 2349  pnpm add react-chessground
+ 2350  pnpm remove react-chessground
+ 2351  lsd
+ 2352  pnpm add react-chessground
+ 2353  pnpm remove react-chessground
+ 2354  pnpm add @react-chess/chessground
+ 2355  pnpm remove  @react-chess/chessground
+ 2356  code .
+ 2357  pnpm dlx shadcn@latest init -d
+ 2358  pnpm dlx shadcn@latest add button card 
+ 2359  pnpm add @supabase/supabase-js @supabase/ssr\n
+ 2360  pnpm add @clerk/nextjs
+ 2361  pnpm dev
+ 2362  code .
+ 2363  pnpm dlx create-next-app@latest . --yes
+ 2364  pnpm add -D vitest @vitejs/plugin-react jsdom @testing-library/react @testing-library/dom vite-tsconfig-paths
+ 2365  touch vitest.config.mts
+ 2366  pnpm add drizzle-orm postgres dotenv\npnpm add -D drizzle-kit tsx
+ 2367  touch drizzle.config.ts
+ 2368  pnpm remove drizzle-orm postgres dotenv
+ 2369  pnpm remove drizzle-orm postgres dotenv dizzle-kit
+ 2370  pnpm remove drizzle-orm postgres dotenv drizzle-kit
+ 2371  pnpm remove drizzle-kit
+ 2372  pnpm list
+ 2373  pnpm add drizzle-orm postgres dotenv\npnpm add -D drizzle-kit tsx
+ 2374  pnpm rebuild
+ 2375  pnpm add clear
+ 2376  pnpm remove clear
+ 2377  clear
+ 2378  pnpm
+ 2379  cler
+ 2380  clear
+ 2381  pnpm list
+ 2382  clear
+ 2383  brew install vitest
+ 2384  brew install virtualbox
+ 2385  vitualbox
+ 2386  brew install vmware
+ 2387  brew install vmware-fusion
+ 2388  brew install utm
+ 2389  clear
+ 2390  brew install utm
+ 2391  lear
+ 2392  clear
+ 2393  speedtest
+ 2394  ping google.com
+ 2395  http google.com
+ 2396  http gayporn.com
+ 2397  cd 
+ 2398  lsd -a
+ 2399  cd paul
+ 2400  npm  run dev
+ 2401  code .
+ 2402  clear
+ 2403  cd
+ 2404  4
+ 2405  3
+ 2406  cd chesszy
+ 2407  lsd
+ 2408  code .
+ 2409  cd ...
+ 2410  cd MachineLearning
+ 2411  code .
+ 2412  poetry env info --path
+ 2413  poetry add plotly
+ 2414  poetry add pandas
+ 2415  poetry activate 
+ 2416  poetry env activate 
+ 2417  source /Users/uncool/Library/Caches/pypoetry/virtualenvs/machinelearning-K2lPGu3H-py3.13/bin/activate
+ 2418  poetry add pandas
+ 2419  vim
+ 2420  jim
+ 2421  gym
+ 2422  brew install gym
+ 2423  clear
+ 2424  cd
+ 2425  source
+ 2426  brew ls --cask
+ 2427  brew ls --cask | bat
+ 2428  weztem
+ 2429  brew ls --p
+ 2430  brew ls --cask
+ 2431  gh repo create
+ 2432  pnpm add drizzle-orm postgres dotenv\npnpm add -D drizzle-kit tsx
+ 2433  touch drizzle.config.ts
+ 2434  touch vitest.config.mts
+ 2435  pnpm add -D vitest @vitejs/plugin-react jsdom @testing-library/react @testing-library/dom vite-tsconfig-paths
+ 2436  brew install dash --cask
+ 2437  brew uninstall todoist
+ 2438  pnpm dev
+ 2439  npm dev
+ 2440  npm run dev
+ 2441  clear
+ 2442  npm run dev
+ 2443  cbonsai
+ 2444  cmatrix
+ 2445  test
+ 2446  cbonsai
+ 2447  npm run dev
+ 2448  clear
+ 2449  npm run dev
+ 2450  printenv > "/var/folders/t4/2jyjn5hd7b3d4g17wsc47g2r0000gn/T/tmp-75564DOaY2dUirSyV.txt"
+ 2451  printenv > "/var/folders/t4/2jyjn5hd7b3d4g17wsc47g2r0000gn/T/tmp-75562RokBBz5ycRV1.txt"
+ 2452  printenv > "/var/folders/t4/2jyjn5hd7b3d4g17wsc47g2r0000gn/T/tmp-48264HkFzOeFjl3kL.txt"
+ 2453  source /Users/uncool/Library/Caches/pypoetry/virtualenvs/machinelearning-K2lPGu3H-py3.13/bin/activate
+ 2454  poetry add tabulate
+ 2455  npm run dev
+ 2456  xelatex
+ 2457  brew install pandoc
+ 2458  brew install nbconvert
+ 2459  non
+ 2460  lnl
+ 2461  ,n,
+ 2462  http https://api.chess.com/pub/player/magnuscarlsen/games/2024/12
+ 2463  pnpm dlx create-next-app@latest . --yes
+ 2464  pnpm add -D vitest @vitejs/plugin-react jsdom @testing-library/react @testing-library/dom vite-tsconfig-paths
+ 2465  touch vitest.config.mts
+ 2466  pnpm test
+ 2467  lear
+ 2468  pnpm dec
+ 2469  pnpm dev
+ 2470  http https://api.chess.com/pub/player/magnuscarlsen/games/2024/12 > test.json
+ 2471  pnpm dev
+ 2472  npm run dev
+ 2473  pnpm dev
+ 2474  source /Users/uncool/Library/Caches/pypoetry/virtualenvs/machinelearning-K2lPGu3H-py3.13/bin/activate
+ 2475  pnpm add date-and-time
+ 2476  pnpm dev
+ 2477  npm run dev
+ 2478  pnpm add drizzle-orm postgres dotenv\npnpm add -D drizzle-kit tsx
+ 2479  touch drizzle.config.ts
+ 2480  pnpm add @clerk/nextjs
+ 2481  pnpm db generate
+ 2482  pnpm generate
+ 2483  pnpm run generate
+ 2484  pnpm drizzle-kit genarate:postgresql
+ 2485  pnpm drizzle-kit generate 
+ 2486  pnpm drizzle-kit drop
+ 2487  pnpm generate
+ 2488  pnpm push
+ 2489  pnpm dev
+ 2490  pnpm push
+ 2491  pnpm dev
+ 2492  pnpm migrate
+ 2493  pnpm check
+ 2494  pnpm generate
+ 2495  pnpm check
+ 2496  pnpm  drop
+ 2497  pnpm check
+ 2498  pnpm generate
+ 2499  pnpm migrate
+ 2500  pnpm push
+ 2501  pnpm lint
+ 2502  pnpm migrate
+ 2503  brew install gum
+ 2504  ./progeny.sh
+ 2505  sudo ./progeny.sh
+ 2506  zsh progeny.sh
+ 2507  clear
+ 2508  ./progeny.sh
+ 2509  zsh ./progeny.sh
+ 2510  gum input --value "$TYPE$SCOPE: " --placeholder "Summary of this change"\n
+ 2511  gum input --placeholder "scope"\n
+ 2512  gum input "Enter the project name: " project_name\ngum input "Enter the project name: " project_name\n
+ 2513  gum input "Enter the project name: " project_name\n
+ 2514  clear
+ 2515  zsh ./progeny.sh
+ 2516  clear
+ 2517  zsh ./progeny.sh
+ 2518  clera
+ 2519  clerar
+ 2520  clera
+ 2521  clear
+ 2522  zsh ./progeny.sh
+ 2523  gum input -h
+ 2524  zsh ./progeny.sh
+ 2525  gum input --width 10 
+ 2526  gum input -h
+ 2527  zsh ./progeny.sh
+ 2528  gum input -h
+ 2529  zsh ./progeny.sh
+ 2530  gum input -h
+ 2531  zsh ./progeny.sh
+ 2532  gum filter -h
+ 2533  zsh ./progeny.sh
+ 2534  gum filter -h
+ 2535  zsh ./progeny.sh
+ 2536  lsd
+ 2537  cd tes
+ 2538  lsd
+ 2539  rm -rf \{api$'\n'lib$'\n'util$'\n'db$'\n'components$'\n'utils\}
+ 2540  lsd
+ 2541  zsh ./progeny.sh
+ 2542  cd ..
+ 2543  zsh ./progeny.sh
+ 2544  cd tesla
+ 2545  lsd
+ 2546  rm -rf
+ 2547  rm -rf \{db,components,utils,api,lib,util\}
+ 2548  cd ..
+ 2549  zsh ./progeny.sh
+ 2550  rm -rf tes
+ 2551  rm -rf tesla
+ 2552  zsh ./progeny.sh
+ 2553  cd tes
+ 2554  lsd
+ 2555  cd ..
+ 2556  rm -rf tes
+ 2557  zsh ./progeny.sh
+ 2558  cd tes
+ 2559  lsd
+ 2560  rm -rf
+ 2561  cd ..
+ 2562  rm -rf tes
+ 2563  zsh ./progeny.sh
+ 2564  mkdir .scripts
+ 2565  mv ./progeny.sh .scripts
+ 2566  cd .scripts
+ 2567  lsd
+ 2568  chmod -x progeny.sh
+ 2569  lsd
+ 2570  ./progeny.sh
+ 2571  chmod -777 progeny.sh
+ 2572  chmod 777 progeny.sh
+ 2573  ./progeny.sh
+ 2574  lsd
+ 2575  code .zshrc
+ 2576  cd ..
+ 2577  code .zshrc
+ 2578  progeny
+ 2579  ./progeny.sh
+ 2580  $HOME
+ 2581  echo $HOME
+ 2582  progeny
+ 2583  progeny.sh
+ 2584  lsd
+ 2585  cler
+ 2586  clear
+ 2587  source /Users/uncool/Library/Caches/pypoetry/virtualenvs/machinelearning-K2lPGu3H-py3.13/bin/activate
+ 2588  clear
+ 2589  progeny.sh
+ 2590  clear
+ 2591  cd src
+ 2592  mkdir features
+ 2593  cd features
+ 2594  progeny.sh
+ 2595  cd ..
+ 2596  progeny.sh
+ 2597  http -v https://api.chess.com/pub/player/hikaru/stats
+ 2598  cd ..
+ 2599  pnpm dlx shadcn@latest init -d
+ 2600  pnpm dlx shadcn@latest add button card 
+ 2601  pnpm dlx shadcn@latest add chart\n
+ 2602  pnpm run dev
+ 2603  source /Users/uncool/Library/Caches/pypoetry/virtualenvs/machinelearning-K2lPGu3H-py3.13/bin/activate
+ 2604  pnpm add -D fluid-tailwind
+ 2605  pnpm run dev
+ 2606  pnpm remove fluid-tailwind
+ 2607  pnpm run dev
+ 2608  pnpm dlx shadcn@latest init -d
+ 2609  pnpm dev
+ 2610  pnpm dlx shadcn@latest add button card chart
+ 2611  cd ..
+ 2612  mkcd chesse
+ 2613  pnpm dlx create-next-app@latest . --yes
+ 2614  pnpm dlx shadcn@latest init -d
+ 2615  code .
+ 2616  pnpm run dev
+ 2617  cd ..
+ 2618  cd chessy/pnpm run dev
+ 2619  cd chessy & pnpm run dev
+ 2620  cd chessy
+ 2621  pnpm run dev
+ 2622  cd src
+ 2623  progeny.sh
+ 2624  pnpm add drizzle-orm postgres dotenv\npnpm add -D drizzle-kit tsx
+ 2625  pnpm add @clerk/nextjs
+ 2626  pnpm run dev
+ 2627  pnpm dlx shadcn@latest add button card chart
+ 2628  pnpm list react
+ 2629  pnpm dlx shadcn@latest init -d
+ 2630  cd ..
+ 2631  pnpm dlx shadcn@latest init -d
+ 2632  pnpm run dev
+ 2633  pnpm check
+ 2634  pnpm dlx shadcn@latest add "https://magicui.design/r/magic-card"\n
+ 2635  pnpm add next-themes
+ 2636  source /Users/uncool/Library/Caches/pypoetry/virtualenvs/machinelearning-K2lPGu3H-py3.13/bin/activate
+ 2637  poetry init
+ 2638  poetry add plotly pandas
+ 2639  poetry add plotly pandas scipy
+ 2640  poetry install
+ 2641  poetry env
+ 2642  poetry env use
+ 2643  poetry env list
+ 2644  poetry env info
+ 2645  poetry install
+ 2646  source /Users/uncool/Library/Caches/pypoetry/virtualenvs/machinelearning-K2lPGu3H-py3.13/bin/activate
+ 2647  lsd /Users/uncool/Library/Caches/pypoetry/virtualenvs/
+ 2648  poetry install
+ 2649  nbformat
+ 2650  brew install nbformat
+ 2651  poetry add nbformat
+ 2652  poetry env use machinelearning-py3.13
+ 2653  pnpm dev
+ 2654  code ~/.zshrc
+ 2655  cd sem4
+ 2656  cd MathInNature
+ 2657  lsd
+ 2658  code .
+ 2659  poetry init
+ 2660  poetry add nbformat
+ 2661  poetry plotly pandas scipy numpy 
+ 2662  poetry add plotly pandas scipy numpy 
+ 2663  code .
+ 2664  poetry env list
+ 2665  pnpm dev
+ 2666  pnpm install --legacy-peer-deps
+ 2667  pnpm install
+ 2668  pnpm run dev
+ 2669  pnpm build
+ 2670  next lint
+ 2671  pnpm lint
+ 2672  pnpm build
+ 2673  pnpm dev
+ 2674  npm run dev
+ 2675  pnpm i next@canary\n
+ 2676  pnpm dev
+ 2677  pnpm i next@clatest\n
+ 2678  pnpm dev
+ 2679  pnpm add -g heroui-cli
+ 2680  pnpm setup
+ 2681  source /Users/uncool/.zshrc
+ 2682  pnpm setup
+ 2683  pnpm add -g heroui-cli
+ 2684  pnpm dlx shadcn@latest init -d
+ 2685  pnpm add drizzle-orm postgres dotenv\npnpm add -D drizzle-kit tsx
+ 2686  pnpm add eslint@latest
+ 2687  clear
+ 2688  pnpm run dev
+ 2689  pnpm dlx shadcn@latest add button card chart
+ 2690  pnpm run dev
+ 2691  pnpm dlx create-next-app@latest . --yes
+ 2692  npx heroui-cli@latest init -t src/app
+ 2693  npx heroui-cli@latest init -t /app
+ 2694  npx heroui-cli@latest init -t app
+ 2695  clear
+ 2696  pnpm dlx create-next-app@latest . --yes
+ 2697  pnpm add -d  --save-dev @types/react
+ 2698  pnpm add @mantine/core @mantine/hooks @mantine/charts recharts@2
+ 2699  add --dev postcss postcss-preset-mantine postcss-simple-vars
+ 2700  pnpm add --dev postcss postcss-preset-mantine postcss-simple-vars
+ 2701  pnpm add -D postcss postcss-preset-mantine postcss-simple-vars
+ 2702  pnpm dev
+ 2703  pnpm dlx create-next-app@latest . --yes
+ 2704  pnpm add visx@latest
+ 2705  pnpm add visx
+ 2706  pnpm add visx@visx
+ 2707  pnpm add @visx/visx
+ 2708  pnpm add  @react-spring/web
+ 2709  pnpm i next@14
+ 2710  pnpm dlx shadcn@latest init -d
+ 2711  pnpm dlx shadcn@latest add button card chart
+ 2712  progeny.sh
+ 2713  cd src
+ 2714  mkdir features
+ 2715  pro
+ 2716  progeny.sh
+ 2717  mkdir features
+ 2718  cd features
+ 2719  mkdir user
+ 2720  pro
+ 2721  progeny.sh
+ 2722  cd ../../ && touch drizzle.config.ts
+ 2723  mkdir drizzle
+ 2724  touch .env.lo
+ 2725  pnpm dlx create-next-app@latest . --no-tailwind
+ 2726  pnpm add @mantine/core @mantine/hooks @mantine/charts recharts@2
+ 2727  pnpm add -D postcss postcss-preset-mantine postcss-simple-vars
+ 2728  touch postcss.config.mjs
+ 2729  pnpm dev
+ 2730  rm -rf node_modules .next
+ 2731  pnpm cache clean --force
+ 2732  pnpm cache clean
+ 2733  pnpm cache delete
+ 2734  pnpm i
+ 2735  pnpm dev
+ 2736  rm -rf .git
+ 2737  gh repo clone mantinedev/next-app-min-template .
+ 2738  pnpm import
+ 2739  pnpm add -D vitest @vitejs/plugin-react jsdom @testing-library/react @testing-library/dom vite-tsconfig-paths
+ 2740  pnpm install
+ 2741  pnpm dev
+ 2742  pnpm add heroicons
+ 2743  pnpm remove heroicons
+ 2744  pnpm add  @heroicons/react
+ 2745  pnpm add @mantine/core @mantine/hooks @mantine/charts recharts@2
+ 2746  pnpm dev
+ 2747  progeny.sh
+ 2748  pnpm dev
+ 2749  pnpm add @clerk/nextjs
+ 2750  progeny.sh
+ 2751  cd features
+ 2752  mkdir src/features
+ 2753  cd src
+ 2754  progeny.sh
+ 2755  pnpm dev
+ 2756  pnpm dlx heroui-cli@latest init
+ 2757  cd ..
+ 2758  rm -rf chese chesse chessy
+ 2759  pnpm dlx heroui-cli@latest init
+ 2760  cd chessy
+ 2761  pnpm dev
+ 2762  pnpm install
+ 2763  lsd
+ 2764  cd ..
+ 2765  rm -rf chessy
+ 2766  pnpm dlx heroui-cli@latest init
+ 2767  cd chessy
+ 2768  pnpm install 
+ 2769  pnpm dev
+ 2770  touch drizzle.config.ts
+ 2771  touch vitest.config.mts
+ 2772  mkdir drizzle
+ 2773  progeny.sh
+ 2774  mkdir features
+ 2775  touch .env
+ 2776  touch middleware.ts
+ 2777  pnpm dev
+ 2778  pnpm add @clerk/nextjs
+ 2779  pnpm upgrade eslint
+ 2780  pnpm list eslin
+ 2781  pnpm list eslint
+ 2782  pnpm i next@latest
+ 2783  pnpm add @clerk/nextjs
+ 2784  pnpm dev
+ 2785  cd ..
+ 2786  rm -rf chessy
+ 2787  pnpm dlx create-next-app@latest . --yes
+ 2788  pnpm dlx create-next-app@latest chessy 
+ 2789  touch .env
+ 2790  touch middleware.ts
+ 2791  history > test.tst
+ 2792  code test.tst
+ 2793  rm -rf .env middleware.ts
+ 2794  cd chessy
+ 2795  pnpm add @clerk/nextjs drizzle-orm postgres dotenv \\n&& pnpm add drizzle-kit tsx vitest @vitejs/plugin-react jsdom @testing-library/react @testing-library/dom vite-tsconfig-paths\\n
+ 2796  pnpm remove drizzle-kit tsx vitest @vitejs/plugin-react jsdom @testing-library/react @testing-library/dom vite-tsconfig-paths
+ 2797  pnpm add  drizzle-kit tsx vitest @vitejs/plugin-react jsdom @testing-library/react @testing-library/dom vite-tsconfig-paths 
+ 2798  pnpm remove drizzle-kit tsx vitest @vitejs/plugin-react jsdom @testing-library/react @testing-library/dom vite-tsconfig-paths
+ 2799  pnpm add  drizzle-kit tsx vitest @vitejs/plugin-react jsdom @testing-library/react @testing-library/dom vite-tsconfig-paths 
+ 2800  pnpm remove drizzle-kit tsx vitest @vitejs/plugin-react jsdom @testing-library/react @testing-library/dom vite-tsconfig-paths
+ 2801  pnpm add -D  drizzle-kit tsx vitest @vitejs/plugin-react jsdom @testing-library/react @testing-library/dom vite-tsconfig-paths 
+ 2802  pnpm add react-chessboard@latest chess.js
+ 2803  pnpm dlx shadcn@latest init -d
+ 2804  pnpm list next
+ 2805  pnpm list react
+ 2806  touch  {drizzle,vitest}.config.ts
+ 2807  touch .env
+ 2808  cd src
+ 2809  touch middleware.ts
+ 2810  cd ..
+ 2811  mkdir drizzle
+ 2812  progeny.sh
+ 2813  cd src
+ 2814  mkdir features
+ 2815  cd features
+ 2816  progeny.sh
+ 2817  cd 
+ 2818  2
+ 2819  cd ..
+ 2820  pnpm dlx shadcn@latest add skeleton\n
+ 2821  pnpm dev
+ 2822  pnpm add next-themes\n
+ 2823  pnpm dlx shadcn@latest add button dropdown\n
+ 2824  pnpm dlx shadcn@latest add button dropdown-menu\n
+ 2825  pnpm dlx shadcn@latest add navigation-menu\n
+ 2826  pnpm add  @heroicons/react
+ 2827  curl parrot.live
+ 2828  pnpm dev
+ 2829  git commit -m "Added Navbar and skeleton for the dashboard"
+ 2830  git commit -am "Added Navbar and skeleton for the dashboard"
+ 2831  git add *
+ 2832  git revert
+ 2833  pnpm dlx shadcn@latest add chart
+ 2834  clear
+ 2835  http -v https://api.chess.com/pub/player/ananthpullur/games > test.json
+ 2836  bat test.json
+ 2837  q
+ 2838  pnpm add lodash
+ 2839  pnpm add @types/lodash
+ 2840  A
+ 2841  pnpm dev
+ 2842  poetry init
+ 2843  clear
+ 2844  poetry env use
+ 2845  poetry env use machinelearning-py3.13
+ 2846  poetry init
+ 2847  cd ..
+ 2848  cd MachineLearning
+ 2849  poetry add keras
+ 2850  poetry add tensorflow
+ 2851  cd src
+ 2852  progeny.sh
+ 2853  cd features
+ 2854  progeny.sh
+ 2855  poetry add tensorflow
+ 2856  poetry add tensorflow>=2.0.0
+ 2857  poetry add tensorflow
+ 2858  cd ..
+ 2859  cd AgileDevOps
+ 2860  poetry init
+ 2861  poetry add tensorflow
+ 2862  cd ..
+ 2863  cd MachineLearning
+ 2864  poetry add tensorflow --source https://download.pytorch.org/whl/cpu
+ 2865  poetry add tensorflow --source https://pypi.org/simple/
+ 2866  poetry add tensorflow --source https://pypi.org/
+ 2867  source /Users/uncool/Library/Caches/pypoetry/virtualenvs/machinelearning-K2lPGu3H-py3.13/bin/activate
+ 2868  pip install tensorflow
+ 2869  poetry add tensorflow==2.15
+ 2870  poetry add tensorflow==2.17
+ 2871  source /Users/uncool/Library/Caches/pypoetry/virtualenvs/machinelearning-K2lPGu3H-py3.13/bin/activate
+ 2872  code pyproject.toml
+ 2873  poetry install
+ 2874  poetry install package-mode=false
+ 2875  clear
+ 2876  poetry init
+ 2877  touch README.md
+ 2878  poetry init
+ 2879  poetry add tensorflow
+ 2880  source /Users/uncool/Library/Caches/pypoetry/virtualenvs/machinelearning-K2lPGu3H-py3.13/bin/activate
+ 2881  source
+ 2882  source .
+ 2883  poetry install
+ 2884  poetry env list
+ 2885  poetry env use agiledevops-nic6a1Zf-py3.13
+ 2886  pyenv
+ 2887  pyenv install 3.12
+ 2888  source /Users/uncool/Library/Caches/pypoetry/virtualenvs/machinelearning-K2lPGu3H-py3.13/bin/activate
+ 2889  poetry install
+ 2890  poetry list
+ 2891  poetry env list
+ 2892  source deactivate
+ 2893  source /Users/uncool/Library/Caches/pypoetry/virtualenvs/machinelearning-K2lPGu3H-py3.13/bin/deactivate
+ 2894  cd ..
+ 2895  rm -rf AgileDevOps
+ 2896  cd sem4
+ 2897  mkdir Agile
+ 2898  cd Agile
+ 2899  cd ..
+ 2900  cd Agile
+ 2901  poetry init
+ 2902  poetry add tensorflow
+ 2903  pyenv local 3.12
+ 2904  poetry add tensorflow
+ 2905  poetry install
+ 2906  poetry env use python3.12
+ 2907  poetry env use agile
+ 2908  code .
+ 2909  source /Users/uncool/Library/Caches/pypoetry/virtualenvs/machinelearning-K2lPGu3H-py3.13/bin/activate
+ 2910  poetry add tensorflow
+ 2911  poetry env list\n
+ 2912  deactivate
+ 2913  poetry env remove agile-PoTMxaZv-py3.13\n
+ 2914  poetry env list\n
+ 2915  which python
+ 2916  pyenv local 3.12
+ 2917  ~/.pyenv/versions/
+ 2918  cd
+ 2919  cd sem4
+ 2920  cd Agile
+ 2921  lsd ~/.pyenv/versions/
+ 2922  pyenv versions
+ 2923  pyenv global  3.12
+ 2924  python
+ 2925  python3
+ 2926  which python3
+ 2927  pyenv activate 3.12
+ 2928  pyenv global  3.12
+ 2929  where python3
+ 2930  lsd ~/.pyenv/versions/
+ 2931  lsd ~/.pyenv/versions/3.12.8/bin/pip3.12
+ 2932  poetry env use ~/.pyenv/versions/3.12.8/bin/pip3.12 
+ 2933  poetry env use ~/.pyenv/versions/3.12.8/bin/python3 
+ 2934  poetry env list
+ 2935  poetry add tensorflow
+ 2936  pnpm dev
+ 2937  brew install google-chrome
+ 2938  pnpm dev
+ 2939  pnpm cache
+ 2940  pnpm cache delete
+ 2941  pnpm dev
+ 2942  npx create-next-app@latest .
+ 2943  npx shadcn@latest init\n
+ 2944  npx shadcn@latest add charts skeleton button\n
+ 2945  npx shadcn@latest add chart card skeleton button\n
+ 2946  npm run dev
+ 2947  progeny.sh
+ 2948  cd src
+ 2949  mkdir features
+ 2950  progeny.sh
+ 2951  cd features
+ 2952  progeny.sh
+ 2953  npm install next@latest react@latest react-dom@latest \n
+ 2954  npm install --save-dev @types/react
+ 2955  npm run dev
+ 2956  ps
+ 2957  kill -943638
+ 2958  kill -9 43638
+ 2959  ps
+ 2960  kill -9 43658 43654
+ 2961  ps
+ 2962  cd sem4/IPEED
+ 2963  rm -rf projects/{chessy,chesszy,collagen}
+ 2964  pnpm dlx create-next-app@latest chessy 
+ 2965  cd chessy
+ 2966  pnpm dlx shadcn@latest init
