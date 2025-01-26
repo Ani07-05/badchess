@@ -1,55 +1,77 @@
-"use client";
-import React from "react";
-import Link from "next/link";
-import { usePathname } from "next/navigation";
-import { cn } from "@/lib/utils";
-import { ModeToggle } from '@/components/ui/mode-toggle';
-import { UserButton } from '@clerk/nextjs';
+"use client"
 
-const Navigation = () => {
-  const pathname = usePathname();
+import Link from "next/link"
+import { useEffect, useState } from "react"
+import { ModeToggle } from "@/components/ui/mode-toggle"
+import { Button } from "@/components/ui/button"
+import { LogOut, User } from "lucide-react"
+import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from "@/components/ui/dropdown-menu"
+import { useRouter } from "next/navigation"
 
-  const navItems = [
-    { name: "Dashboard", href: "/" },
-    { name: "Puzzle", href: "/puzzle" },
-  ];
+export default function Navigation() {
+  const [user, setUser] = useState<{ username: string; email: string } | null>(null)
+  const router = useRouter()
+
+  useEffect(() => {
+    const savedUser = localStorage.getItem("chess-user")
+    if (savedUser) {
+      setUser(JSON.parse(savedUser))
+    }
+  }, [])
+
+  const handleSignOut = () => {
+    localStorage.removeItem("chess-user")
+    setUser(null)
+    router.push("/")
+  }
+
+  if (!user) return null
 
   return (
-    <header className="fixed top-4 left-1/2 -translate-x-1/2 z-50">
-      <div className="relative flex items-center gap-2 px-4 py-2.5 bg-black rounded-full shadow-xl border border-zinc-800">
-        <div className="flex gap-6 items-center md:pr-6">
-          {navItems.map((item) => (
-            <Link
-              key={item.name}
-              href={item.href}
-              className={cn(
-                "text-sm font-medium transition-colors",
-                pathname === item.href
-                  ? "text-white"
-                  : "text-zinc-400 hover:text-zinc-100"
-              )}
-            >
-              {item.name}
+    <header className="fixed top-0 z-50 w-full border-b border-border/40 bg-[#0A0A0B]/95 backdrop-blur supports-[backdrop-filter]:bg-[#0A0A0B]/60">
+      <div className="container flex h-14 max-w-screen-2xl items-center">
+        <div className="flex flex-1 items-center justify-between space-x-2 md:justify-end">
+          <div className="w-full flex justify-between items-center">
+            <Link href="/dashboard" className="text-xl font-bold text-white">
+              ChessY
             </Link>
-          ))}
-        </div>
 
-        <div className="px-4 py-1 border-zinc-800 md:border-l">
-          <ModeToggle />
-        </div>
+            <nav className="flex items-center space-x-6">
+              <Link href="/dashboard" className="text-sm font-medium transition-colors hover:text-white/80 text-white">
+                Dashboard
+              </Link>
+              <Link href="/puzzles" className="text-sm font-medium transition-colors hover:text-white/80 text-white/60">
+                Puzzles
+              </Link>
+              <Link
+                href="/tournaments"
+                className="text-sm font-medium transition-colors hover:text-white/80 text-white/60"
+              >
+                Tournaments
+              </Link>
+            </nav>
 
-        <div className="hidden md:block pl-4 border-l border-zinc-800">
-          <UserButton />
-        </div>
-
-        <div className="md:hidden absolute -right-14 top-1/2 -translate-y-1/2">
-          <div className="bg-black px-3 py-2 rounded-full border border-zinc-800 shadow-xl">
-            <UserButton />
+            <div className="flex items-center space-x-2">
+              <ModeToggle />
+              <DropdownMenu>
+                <DropdownMenuTrigger asChild>
+                  <Button variant="ghost" className="relative h-8 w-8 rounded-full">
+                    <User className="h-5 w-5 text-white" />
+                  </Button>
+                </DropdownMenuTrigger>
+                <DropdownMenuContent align="end">
+                  <DropdownMenuItem className="text-sm">Signed in as {user.username}</DropdownMenuItem>
+                  <DropdownMenuItem onClick={handleSignOut}>
+                    <LogOut className="mr-2 h-4 w-4" />
+                    <span>Sign out</span>
+                  </DropdownMenuItem>
+                </DropdownMenuContent>
+              </DropdownMenu>
+            </div>
           </div>
         </div>
       </div>
     </header>
-  );
-};
+  )
+}
 
-export default Navigation;
